@@ -3,9 +3,25 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-09-29T12:18:12Z",
-  "count": 85,
+  "generated": "2026-09-30T12:03:20Z",
+  "count": 86,
   "posts": [
+    {
+      "title": "RSS Feeds for Last.fm Brings Syndication to Music Data",
+      "date": "2026-09-30",
+      "tags": [
+        "rss",
+        "lastfm",
+        "music",
+        "tools",
+        "indie"
+      ],
+      "summary": "Track and syndicate your Last.fm music activity easily using this handy RSS feed generator utility.",
+      "source_url": "https://lfm.xiffy.nl/",
+      "source_title": "RSS Feeds for Last.fm",
+      "slug": "2026-09-30-rss-feeds-for-lastfm-brings-syndication-to-music-data",
+      "file": "posts/2026-09-30-rss-feeds-for-lastfm-brings-syndication-to-music-data.md"
+    },
     {
       "title": "How Developers Can Keep the Joy of Coding Alive in the LLM Era",
       "date": "2026-09-26",

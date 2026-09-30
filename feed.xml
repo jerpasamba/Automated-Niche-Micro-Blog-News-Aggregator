@@ -2,8 +2,16 @@
 <ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom">
   <ns0:title>NichePulse</ns0:title>
   <ns0:id>https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/</ns0:id>
-  <ns0:updated>2026-09-29T12:18:12Z</ns0:updated>
+  <ns0:updated>2026-09-30T12:03:20Z</ns0:updated>
   <ns0:link rel="self" href="https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/feed.xml" />
+  <ns0:entry>
+    <ns0:title>RSS Feeds for Last.fm Brings Syndication to Music Data</ns0:title>
+    <ns0:id>urn:uuid:ecf246c98f954347d08106b60034ff3b</ns0:id>
+    <ns0:link rel="alternate" href="https://lfm.xiffy.nl/" />
+    <ns0:summary>Track and syndicate your Last.fm music activity easily using this handy RSS feed generator utility.</ns0:summary>
+    <ns0:published>2026-09-30T00:00:00Z</ns0:published>
+    <ns0:updated>2026-09-30T00:00:00Z</ns0:updated>
+  </ns0:entry>
   <ns0:entry>
     <ns0:title>How Developers Can Keep the Joy of Coding Alive in the LLM Era</ns0:title>
     <ns0:id>urn:uuid:49861aaaadea96a8a031761fb59ed94b</ns0:id>
