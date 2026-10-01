@@ -3,9 +3,24 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-09-30T12:03:20Z",
-  "count": 86,
+  "generated": "2026-10-01T12:36:28Z",
+  "count": 87,
   "posts": [
+    {
+      "title": "Experience Retro Web Surfing with 56k.rip",
+      "date": "2026-10-01",
+      "tags": [
+        "indie",
+        "web",
+        "retro",
+        "launch"
+      ],
+      "summary": "Take a nostalgic trip back to the early web with 56k.rip, a project recreating the 1996 dial-up internet experience.",
+      "source_url": "https://56k.rip/",
+      "source_title": "56k.rip – the 1996 dial-up internet experience",
+      "slug": "2026-10-01-experience-retro-web-surfing-with-56krip",
+      "file": "posts/2026-10-01-experience-retro-web-surfing-with-56krip.md"
+    },
     {
       "title": "RSS Feeds for Last.fm Brings Syndication to Music Data",
       "date": "2026-09-30",
