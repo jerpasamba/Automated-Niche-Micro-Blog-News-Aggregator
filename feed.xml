@@ -2,8 +2,24 @@
 <ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom">
   <ns0:title>NichePulse</ns0:title>
   <ns0:id>https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/</ns0:id>
-  <ns0:updated>2026-10-01T12:36:28Z</ns0:updated>
+  <ns0:updated>2026-10-02T12:00:48Z</ns0:updated>
   <ns0:link rel="self" href="https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/feed.xml" />
+  <ns0:entry>
+    <ns0:title>DeepSeek Harness Brings AI Workflows to macOS and Windows Desktop</ns0:title>
+    <ns0:id>urn:uuid:e617229fef9e709fc7b65ddc40f0d289</ns0:id>
+    <ns0:link rel="alternate" href="https://www.deepseek.com/en/harness/" />
+    <ns0:summary>DeepSeek has launched its native desktop app, DeepSeek Harness, giving macOS and Windows users a dedicated interface for AI tools.</ns0:summary>
+    <ns0:published>2026-10-02T00:00:00Z</ns0:published>
+    <ns0:updated>2026-10-02T00:00:00Z</ns0:updated>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:title>Audionaut: A New Open-Source Multitrack Audio Editor</ns0:title>
+    <ns0:id>urn:uuid:236151540a21099544fa1b7574e391c0</ns0:id>
+    <ns0:link rel="alternate" href="https://github.com/kvoltmer/Audionaut" />
+    <ns0:summary>Looking for a fresh way to edit sound? Audionaut is an open-source, cross-platform multitrack audio editor built for creators.</ns0:summary>
+    <ns0:published>2026-10-02T00:00:00Z</ns0:published>
+    <ns0:updated>2026-10-02T00:00:00Z</ns0:updated>
+  </ns0:entry>
   <ns0:entry>
     <ns0:title>Experience Retro Web Surfing with 56k.rip</ns0:title>
     <ns0:id>urn:uuid:c9b12017dd71284d39ba8a33c9f2badb</ns0:id>

@@ -3,9 +3,39 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-10-01T12:36:28Z",
-  "count": 87,
+  "generated": "2026-10-02T12:00:48Z",
+  "count": 89,
   "posts": [
+    {
+      "title": "DeepSeek Harness Brings AI Workflows to macOS and Windows Desktop",
+      "date": "2026-10-02",
+      "tags": [
+        "ai",
+        "deepseek",
+        "desktop",
+        "software"
+      ],
+      "summary": "DeepSeek has launched its native desktop app, DeepSeek Harness, giving macOS and Windows users a dedicated interface for AI tools.",
+      "source_url": "https://www.deepseek.com/en/harness/",
+      "source_title": "DeepSeek Harness Desktop for macOS and Windows",
+      "slug": "2026-10-02-deepseek-harness-brings-ai-workflows-to-macos-and-windows-deskto",
+      "file": "posts/2026-10-02-deepseek-harness-brings-ai-workflows-to-macos-and-windows-deskto.md"
+    },
+    {
+      "title": "Audionaut: A New Open-Source Multitrack Audio Editor",
+      "date": "2026-10-02",
+      "tags": [
+        "opensource",
+        "audio",
+        "tools",
+        "multitrack"
+      ],
+      "summary": "Looking for a fresh way to edit sound? Audionaut is an open-source, cross-platform multitrack audio editor built for creators.",
+      "source_url": "https://github.com/kvoltmer/Audionaut",
+      "source_title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
+      "slug": "2026-10-02-audionaut-a-new-open-source-multitrack-audio-editor",
+      "file": "posts/2026-10-02-audionaut-a-new-open-source-multitrack-audio-editor.md"
+    },
     {
       "title": "Experience Retro Web Surfing with 56k.rip",
       "date": "2026-10-01",
