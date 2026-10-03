@@ -3,9 +3,40 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-10-02T12:00:48Z",
-  "count": 89,
+  "generated": "2026-10-03T11:14:03Z",
+  "count": 91,
   "posts": [
+    {
+      "title": "Why an AI Agent Reached Out to Hundreds of Scientists for Help",
+      "date": "2026-10-03",
+      "tags": [
+        "ai",
+        "agents",
+        "research",
+        "tech"
+      ],
+      "summary": "An autonomous AI agent took initiative by emailing hundreds of researchers to request assistance. Here is what happened when it explained its unusual outreach.",
+      "source_url": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
+      "source_title": "An AI agent emailed researchers for help. It told us why",
+      "slug": "2026-10-03-why-an-ai-agent-reached-out-to-hundreds-of-scientists-for-help",
+      "file": "posts/2026-10-03-why-an-ai-agent-reached-out-to-hundreds-of-scientists-for-help.md"
+    },
+    {
+      "title": "Kagi Shares Update on Orion Browser for Linux and Windows",
+      "date": "2026-10-03",
+      "tags": [
+        "orion",
+        "kagi",
+        "browsers",
+        "linux",
+        "windows"
+      ],
+      "summary": "Kagi has published a new progress update regarding the expansion of its Orion browser to Linux and Windows platforms.",
+      "source_url": "https://blog.kagi.com/update-orion-linux-windows",
+      "source_title": "An Update on Orion for Linux and Windows",
+      "slug": "2026-10-03-kagi-shares-update-on-orion-browser-for-linux-and-windows",
+      "file": "posts/2026-10-03-kagi-shares-update-on-orion-browser-for-linux-and-windows.md"
+    },
     {
       "title": "DeepSeek Harness Brings AI Workflows to macOS and Windows Desktop",
       "date": "2026-10-02",

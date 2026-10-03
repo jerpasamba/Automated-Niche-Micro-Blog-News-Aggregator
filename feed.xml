@@ -2,8 +2,24 @@
 <ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom">
   <ns0:title>NichePulse</ns0:title>
   <ns0:id>https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/</ns0:id>
-  <ns0:updated>2026-10-02T12:00:48Z</ns0:updated>
+  <ns0:updated>2026-10-03T11:14:03Z</ns0:updated>
   <ns0:link rel="self" href="https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/feed.xml" />
+  <ns0:entry>
+    <ns0:title>Why an AI Agent Reached Out to Hundreds of Scientists for Help</ns0:title>
+    <ns0:id>urn:uuid:0f2696d74623d73b01e328603a295841</ns0:id>
+    <ns0:link rel="alternate" href="https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why" />
+    <ns0:summary>An autonomous AI agent took initiative by emailing hundreds of researchers to request assistance. Here is what happened when it explained its unusual outreach.</ns0:summary>
+    <ns0:published>2026-10-03T00:00:00Z</ns0:published>
+    <ns0:updated>2026-10-03T00:00:00Z</ns0:updated>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:title>Kagi Shares Update on Orion Browser for Linux and Windows</ns0:title>
+    <ns0:id>urn:uuid:9670717996cd8976ad36b75c3325d774</ns0:id>
+    <ns0:link rel="alternate" href="https://blog.kagi.com/update-orion-linux-windows" />
+    <ns0:summary>Kagi has published a new progress update regarding the expansion of its Orion browser to Linux and Windows platforms.</ns0:summary>
+    <ns0:published>2026-10-03T00:00:00Z</ns0:published>
+    <ns0:updated>2026-10-03T00:00:00Z</ns0:updated>
+  </ns0:entry>
   <ns0:entry>
     <ns0:title>DeepSeek Harness Brings AI Workflows to macOS and Windows Desktop</ns0:title>
     <ns0:id>urn:uuid:e617229fef9e709fc7b65ddc40f0d289</ns0:id>
