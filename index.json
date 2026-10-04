@@ -3,9 +3,39 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-10-03T11:14:03Z",
-  "count": 91,
+  "generated": "2026-10-04T11:55:09Z",
+  "count": 93,
   "posts": [
+    {
+      "title": "Turbocharge Rust Builds With Early Metadata Emission",
+      "date": "2026-10-04",
+      "tags": [
+        "rust",
+        "devtools",
+        "opensource",
+        "performance"
+      ],
+      "summary": "Accelerate your Rust compilation cycles effortlessly. Headstart leverages early metadata emission to double your building and checking speed.",
+      "source_url": "https://github.com/PowderworksCode/headstart",
+      "source_title": "Emitting metadata early makes building/checking Rust up to twice as fast",
+      "slug": "2026-10-04-turbocharge-rust-builds-with-early-metadata-emission",
+      "file": "posts/2026-10-04-turbocharge-rust-builds-with-early-metadata-emission.md"
+    },
+    {
+      "title": "Anthropic Meets Religious Scholars to Discuss AI Morality",
+      "date": "2026-10-04",
+      "tags": [
+        "anthropic",
+        "claude",
+        "ai",
+        "ethics"
+      ],
+      "summary": "Anthropic recently consulted religious scholars to discuss moral frameworks and ethical considerations for AI models like Claude.",
+      "source_url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "source_title": "Religious scholars met with Anthropic",
+      "slug": "2026-10-04-anthropic-meets-religious-scholars-to-discuss-ai-morality",
+      "file": "posts/2026-10-04-anthropic-meets-religious-scholars-to-discuss-ai-morality.md"
+    },
     {
       "title": "Why an AI Agent Reached Out to Hundreds of Scientists for Help",
       "date": "2026-10-03",

@@ -2,8 +2,24 @@
 <ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom">
   <ns0:title>NichePulse</ns0:title>
   <ns0:id>https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/</ns0:id>
-  <ns0:updated>2026-10-03T11:14:03Z</ns0:updated>
+  <ns0:updated>2026-10-04T11:55:09Z</ns0:updated>
   <ns0:link rel="self" href="https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/feed.xml" />
+  <ns0:entry>
+    <ns0:title>Turbocharge Rust Builds With Early Metadata Emission</ns0:title>
+    <ns0:id>urn:uuid:832d49002c8335d700328d995a4884cb</ns0:id>
+    <ns0:link rel="alternate" href="https://github.com/PowderworksCode/headstart" />
+    <ns0:summary>Accelerate your Rust compilation cycles effortlessly. Headstart leverages early metadata emission to double your building and checking speed.</ns0:summary>
+    <ns0:published>2026-10-04T00:00:00Z</ns0:published>
+    <ns0:updated>2026-10-04T00:00:00Z</ns0:updated>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:title>Anthropic Meets Religious Scholars to Discuss AI Morality</ns0:title>
+    <ns0:id>urn:uuid:c32e828b54ae31b66cd8658a5cf56fe4</ns0:id>
+    <ns0:link rel="alternate" href="https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html" />
+    <ns0:summary>Anthropic recently consulted religious scholars to discuss moral frameworks and ethical considerations for AI models like Claude.</ns0:summary>
+    <ns0:published>2026-10-04T00:00:00Z</ns0:published>
+    <ns0:updated>2026-10-04T00:00:00Z</ns0:updated>
+  </ns0:entry>
   <ns0:entry>
     <ns0:title>Why an AI Agent Reached Out to Hundreds of Scientists for Help</ns0:title>
     <ns0:id>urn:uuid:0f2696d74623d73b01e328603a295841</ns0:id>
