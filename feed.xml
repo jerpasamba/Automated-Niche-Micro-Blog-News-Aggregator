@@ -2,8 +2,16 @@
 <ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom">
   <ns0:title>NichePulse</ns0:title>
   <ns0:id>https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/</ns0:id>
-  <ns0:updated>2026-10-05T13:50:39Z</ns0:updated>
+  <ns0:updated>2026-10-06T02:26:30Z</ns0:updated>
   <ns0:link rel="self" href="https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/feed.xml" />
+  <ns0:entry>
+    <ns0:title>Khanmigo AI Tutoring Tested in Two Year School Study</ns0:title>
+    <ns0:id>urn:uuid:a9496232774808acf325e79bba32d07e</ns0:id>
+    <ns0:link rel="alternate" href="https://edworkingpapers.com/ai26-1551" />
+    <ns0:summary>A new two-year study examines how Khanmigo functions as an AI tutor in school environments. Discover the findings from this real-world AI experiment.</ns0:summary>
+    <ns0:published>2026-10-06T00:00:00Z</ns0:published>
+    <ns0:updated>2026-10-06T00:00:00Z</ns0:updated>
+  </ns0:entry>
   <ns0:entry>
     <ns0:title>Turbocharge Rust Builds With Early Metadata Emission</ns0:title>
     <ns0:id>urn:uuid:832d49002c8335d700328d995a4884cb</ns0:id>
