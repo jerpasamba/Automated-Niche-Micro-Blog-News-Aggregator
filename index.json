@@ -3,9 +3,39 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-10-07T12:48:22Z",
-  "count": 94,
+  "generated": "2026-10-08T12:59:16Z",
+  "count": 96,
   "posts": [
+    {
+      "title": "Visualizing Invisible Cities with a Single Claude Opus Prompt",
+      "date": "2026-10-08",
+      "tags": [
+        "ai",
+        "design",
+        "llm",
+        "generative"
+      ],
+      "summary": "An experiment tested Opus 5.5 by running a single prompt for six hours to visually bring the literary world of Invisible Cities to life.",
+      "source_url": "https://quesma.com/blog/invisible-cities-one-shot/",
+      "source_title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+      "slug": "2026-10-08-visualizing-invisible-cities-with-a-single-claude-opus-prompt",
+      "file": "posts/2026-10-08-visualizing-invisible-cities-with-a-single-claude-opus-prompt.md"
+    },
+    {
+      "title": "Building Decentralized Apps with Dat Ecosystem P2P Protocols",
+      "date": "2026-10-08",
+      "tags": [
+        "p2p",
+        "decentralized",
+        "opensource",
+        "tech"
+      ],
+      "summary": "Discover how the Dat Ecosystem provides high-level applications built directly on top of peer-to-peer protocols.",
+      "source_url": "https://dat-ecosystem.org/",
+      "source_title": "Dat-ecosystem: high level applications built on top of P2P protocols",
+      "slug": "2026-10-08-building-decentralized-apps-with-dat-ecosystem-p2p-protocols",
+      "file": "posts/2026-10-08-building-decentralized-apps-with-dat-ecosystem-p2p-protocols.md"
+    },
     {
       "title": "Khanmigo AI Tutoring Tested in Two Year School Study",
       "date": "2026-10-06",
