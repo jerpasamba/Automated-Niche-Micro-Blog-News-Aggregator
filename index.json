@@ -3,9 +3,24 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-10-08T12:59:16Z",
-  "count": 96,
+  "generated": "2026-10-09T12:43:35Z",
+  "count": 97,
   "posts": [
+    {
+      "title": "Visual Cues for AI Agents: Highlight Your Screen in Real Time",
+      "date": "2026-10-09",
+      "tags": [
+        "ai",
+        "agents",
+        "automation",
+        "opensource"
+      ],
+      "summary": "Give your desktop AI agents a way to visually communicate. This open-source tool lets agents draw arrows, bounding boxes, and text directly on your screen.",
+      "source_url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "source_title": "Let your AI agents paint big arrows, boxes and text on your screen",
+      "slug": "2026-10-09-visual-cues-for-ai-agents-highlight-your-screen-in-real-time",
+      "file": "posts/2026-10-09-visual-cues-for-ai-agents-highlight-your-screen-in-real-time.md"
+    },
     {
       "title": "Visualizing Invisible Cities with a Single Claude Opus Prompt",
       "date": "2026-10-08",

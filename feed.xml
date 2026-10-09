@@ -2,8 +2,16 @@
 <ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom">
   <ns0:title>NichePulse</ns0:title>
   <ns0:id>https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/</ns0:id>
-  <ns0:updated>2026-10-08T12:59:16Z</ns0:updated>
+  <ns0:updated>2026-10-09T12:43:35Z</ns0:updated>
   <ns0:link rel="self" href="https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/feed.xml" />
+  <ns0:entry>
+    <ns0:title>Visual Cues for AI Agents: Highlight Your Screen in Real Time</ns0:title>
+    <ns0:id>urn:uuid:6baa3410c4d8e9425dea2cb2e21ba7a4</ns0:id>
+    <ns0:link rel="alternate" href="https://github.com/franzenzenhofer/big-arrow-on-the-screen" />
+    <ns0:summary>Give your desktop AI agents a way to visually communicate. This open-source tool lets agents draw arrows, bounding boxes, and text directly on your screen.</ns0:summary>
+    <ns0:published>2026-10-09T00:00:00Z</ns0:published>
+    <ns0:updated>2026-10-09T00:00:00Z</ns0:updated>
+  </ns0:entry>
   <ns0:entry>
     <ns0:title>Visualizing Invisible Cities with a Single Claude Opus Prompt</ns0:title>
     <ns0:id>urn:uuid:392578a12e758c2963e8d1d45367bfa3</ns0:id>
