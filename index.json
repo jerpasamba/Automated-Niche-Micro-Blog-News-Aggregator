@@ -3,9 +3,39 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-10-09T12:43:35Z",
-  "count": 97,
+  "generated": "2026-10-10T12:02:36Z",
+  "count": 99,
   "posts": [
+    {
+      "title": "Telegram Desktop Security Flaw Exposed User Files",
+      "date": "2026-10-10",
+      "tags": [
+        "telegram",
+        "security",
+        "vulnerability",
+        "tech"
+      ],
+      "summary": "A serious vulnerability discovered in Telegram Desktop allowed attackers to steal local files and potentially take over user accounts.",
+      "source_url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+      "source_title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+      "slug": "2026-10-10-telegram-desktop-security-flaw-exposed-user-files",
+      "file": "posts/2026-10-10-telegram-desktop-security-flaw-exposed-user-files.md"
+    },
+    {
+      "title": "Apple macOS Silently Dropped From Official Unix Registry",
+      "date": "2026-10-10",
+      "tags": [
+        "apple",
+        "macos",
+        "unix",
+        "tech"
+      ],
+      "summary": "Apple macOS has been quietly removed from the official Unix registry, marking a sudden shift in the operating system certification listing.",
+      "source_url": "https://www.opengroup.org//openbrand/register/",
+      "source_title": "Apple/macOS silently removed from official Unix registry",
+      "slug": "2026-10-10-apple-macos-silently-dropped-from-official-unix-registry",
+      "file": "posts/2026-10-10-apple-macos-silently-dropped-from-official-unix-registry.md"
+    },
     {
       "title": "Visual Cues for AI Agents: Highlight Your Screen in Real Time",
       "date": "2026-10-09",
