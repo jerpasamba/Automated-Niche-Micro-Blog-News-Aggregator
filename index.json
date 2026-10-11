@@ -3,9 +3,39 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-10-10T12:02:36Z",
-  "count": 99,
+  "generated": "2026-10-11T12:15:22Z",
+  "count": 101,
   "posts": [
+    {
+      "title": "Why Usability Testing Your README Is a Game Changer for Developers",
+      "date": "2026-10-11",
+      "tags": [
+        "opensource",
+        "developer",
+        "indiehacker",
+        "documentation"
+      ],
+      "summary": "Want to build better open-source software? One developer paid real people to follow their project documentation to uncover hidden setup hurdles.",
+      "source_url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+      "source_title": "I paid people to try and follow my README",
+      "slug": "2026-10-11-why-usability-testing-your-readme-is-a-game-changer-for-develope",
+      "file": "posts/2026-10-11-why-usability-testing-your-readme-is-a-game-changer-for-develope.md"
+    },
+    {
+      "title": "Nitter Issues Call for Community Funding and Legal Help",
+      "date": "2026-10-11",
+      "tags": [
+        "nitter",
+        "opensource",
+        "privacy",
+        "tech"
+      ],
+      "summary": "Open-source frontend project Nitter published a new update asking for financial support and legal assistance to keep running.",
+      "source_url": "https://nitter.net",
+      "source_title": "Nitter: Update Oct 10th seeking funding and legal help",
+      "slug": "2026-10-11-nitter-issues-call-for-community-funding-and-legal-help",
+      "file": "posts/2026-10-11-nitter-issues-call-for-community-funding-and-legal-help.md"
+    },
     {
       "title": "Telegram Desktop Security Flaw Exposed User Files",
       "date": "2026-10-10",

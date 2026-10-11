@@ -2,8 +2,24 @@
 <ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom">
   <ns0:title>NichePulse</ns0:title>
   <ns0:id>https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/</ns0:id>
-  <ns0:updated>2026-10-10T12:02:36Z</ns0:updated>
+  <ns0:updated>2026-10-11T12:15:22Z</ns0:updated>
   <ns0:link rel="self" href="https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/feed.xml" />
+  <ns0:entry>
+    <ns0:title>Why Usability Testing Your README Is a Game Changer for Developers</ns0:title>
+    <ns0:id>urn:uuid:578bf447b919e87bb8f8c32954813f28</ns0:id>
+    <ns0:link rel="alternate" href="https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/" />
+    <ns0:summary>Want to build better open-source software? One developer paid real people to follow their project documentation to uncover hidden setup hurdles.</ns0:summary>
+    <ns0:published>2026-10-11T00:00:00Z</ns0:published>
+    <ns0:updated>2026-10-11T00:00:00Z</ns0:updated>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:title>Nitter Issues Call for Community Funding and Legal Help</ns0:title>
+    <ns0:id>urn:uuid:0300f21dc32b18a53d2516617351842c</ns0:id>
+    <ns0:link rel="alternate" href="https://nitter.net" />
+    <ns0:summary>Open-source frontend project Nitter published a new update asking for financial support and legal assistance to keep running.</ns0:summary>
+    <ns0:published>2026-10-11T00:00:00Z</ns0:published>
+    <ns0:updated>2026-10-11T00:00:00Z</ns0:updated>
+  </ns0:entry>
   <ns0:entry>
     <ns0:title>Telegram Desktop Security Flaw Exposed User Files</ns0:title>
     <ns0:id>urn:uuid:4469fec21878fc092e0ee92a3ad3c586</ns0:id>
