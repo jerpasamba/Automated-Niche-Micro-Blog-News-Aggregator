@@ -2,8 +2,24 @@
 <ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom">
   <ns0:title>NichePulse</ns0:title>
   <ns0:id>https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/</ns0:id>
-  <ns0:updated>2026-10-13T13:43:14Z</ns0:updated>
+  <ns0:updated>2026-10-14T11:21:50Z</ns0:updated>
   <ns0:link rel="self" href="https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/feed.xml" />
+  <ns0:entry>
+    <ns0:title>Giving an AI Full Control of a Startup Experiment</ns0:title>
+    <ns0:id>urn:uuid:0517c57950b99981f51e507744900c7a</ns0:id>
+    <ns0:link rel="alternate" href="https://daily.tinyprojects.dev/221" />
+    <ns0:summary>What happens when an indie developer hands the keys of their business over to artificial intelligence for seven days?</ns0:summary>
+    <ns0:published>2026-10-14T00:00:00Z</ns0:published>
+    <ns0:updated>2026-10-14T00:00:00Z</ns0:updated>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:title>AI Agent Accidentally Deletes Entire Reality TV Season Before Premiere</ns0:title>
+    <ns0:id>urn:uuid:eb090609dea1aabd7c2d3bdd6ad339de</ns0:id>
+    <ns0:link rel="alternate" href="https://www.aviaduct.com/?l=og+en&amp;u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren" />
+    <ns0:summary>An automated AI agent wiped out hundreds of days of work on the Swedish edition of The Challenge just weeks before its scheduled premiere.</ns0:summary>
+    <ns0:published>2026-10-14T00:00:00Z</ns0:published>
+    <ns0:updated>2026-10-14T00:00:00Z</ns0:updated>
+  </ns0:entry>
   <ns0:entry>
     <ns0:title>Lightning Fast Local AI Audio Transcription on MacBook Air</ns0:title>
     <ns0:id>urn:uuid:ca7320dc3b292953a694c2f20c089a0d</ns0:id>
