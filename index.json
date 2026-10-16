@@ -3,9 +3,24 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-10-15T10:58:55Z",
-  "count": 104,
+  "generated": "2026-10-16T10:53:18Z",
+  "count": 105,
   "posts": [
+    {
+      "title": "How Competition Keeps JavaScript Moving Forward",
+      "date": "2026-10-16",
+      "tags": [
+        "javascript",
+        "deno",
+        "webdev",
+        "tech"
+      ],
+      "summary": "Healthy rivalry in the developer tooling ecosystem drives continuous innovation and better standards across modern JavaScript runtimes.",
+      "source_url": "https://www.vlt.io/blog/competition-keeps-javascript-moving",
+      "source_title": "Thank You, Deno",
+      "slug": "2026-10-16-how-competition-keeps-javascript-moving-forward",
+      "file": "posts/2026-10-16-how-competition-keeps-javascript-moving-forward.md"
+    },
     {
       "title": "Giving an AI Full Control of a Startup Experiment",
       "date": "2026-10-14",
