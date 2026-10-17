@@ -2,8 +2,24 @@
 <ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom">
   <ns0:title>NichePulse</ns0:title>
   <ns0:id>https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/</ns0:id>
-  <ns0:updated>2026-10-16T10:53:18Z</ns0:updated>
+  <ns0:updated>2026-10-17T10:16:16Z</ns0:updated>
   <ns0:link rel="self" href="https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/feed.xml" />
+  <ns0:entry>
+    <ns0:title>DeepSeek V4.1 Flash Drops on Hugging Face</ns0:title>
+    <ns0:id>urn:uuid:1597327e7cabd9e53d5a35d1231f9f8c</ns0:id>
+    <ns0:link rel="alternate" href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017" />
+    <ns0:summary>DeepSeek has released a new model iteration, DeepSeek-v4.1-Flash-1017, generating fresh buzz across the open-source AI community.</ns0:summary>
+    <ns0:published>2026-10-17T00:00:00Z</ns0:published>
+    <ns0:updated>2026-10-17T00:00:00Z</ns0:updated>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:title>DeepSeek v4.1 Flash 1017 Launches on OpenRouter</ns0:title>
+    <ns0:id>urn:uuid:b9a2dfc19fb443a1f4be81a40f48260f</ns0:id>
+    <ns0:link rel="alternate" href="https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017" />
+    <ns0:summary>DeepSeek has rolled out its latest DeepSeek v4.1 Flash 1017 model, now accessible via OpenRouter for developers to test.</ns0:summary>
+    <ns0:published>2026-10-17T00:00:00Z</ns0:published>
+    <ns0:updated>2026-10-17T00:00:00Z</ns0:updated>
+  </ns0:entry>
   <ns0:entry>
     <ns0:title>How Competition Keeps JavaScript Moving Forward</ns0:title>
     <ns0:id>urn:uuid:530997fff0b1effaeefb8c645e32f767</ns0:id>

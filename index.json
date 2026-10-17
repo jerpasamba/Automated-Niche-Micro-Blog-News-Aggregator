@@ -3,9 +3,39 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-10-16T10:53:18Z",
-  "count": 105,
+  "generated": "2026-10-17T10:16:16Z",
+  "count": 107,
   "posts": [
+    {
+      "title": "DeepSeek V4.1 Flash Drops on Hugging Face",
+      "date": "2026-10-17",
+      "tags": [
+        "ai",
+        "deepseek",
+        "opensource",
+        "huggingface"
+      ],
+      "summary": "DeepSeek has released a new model iteration, DeepSeek-v4.1-Flash-1017, generating fresh buzz across the open-source AI community.",
+      "source_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "source_title": "DeepSeek-v4.1-Flash-1017",
+      "slug": "2026-10-17-deepseek-v41-flash-drops-on-hugging-face",
+      "file": "posts/2026-10-17-deepseek-v41-flash-drops-on-hugging-face.md"
+    },
+    {
+      "title": "DeepSeek v4.1 Flash 1017 Launches on OpenRouter",
+      "date": "2026-10-17",
+      "tags": [
+        "deepseek",
+        "ai",
+        "openrouter",
+        "models"
+      ],
+      "summary": "DeepSeek has rolled out its latest DeepSeek v4.1 Flash 1017 model, now accessible via OpenRouter for developers to test.",
+      "source_url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "source_title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+      "slug": "2026-10-17-deepseek-v41-flash-1017-launches-on-openrouter",
+      "file": "posts/2026-10-17-deepseek-v41-flash-1017-launches-on-openrouter.md"
+    },
     {
       "title": "How Competition Keeps JavaScript Moving Forward",
       "date": "2026-10-16",
