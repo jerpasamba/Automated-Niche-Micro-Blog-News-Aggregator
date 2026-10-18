@@ -3,9 +3,40 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-10-17T10:16:16Z",
-  "count": 107,
+  "generated": "2026-10-18T10:32:00Z",
+  "count": 109,
   "posts": [
+    {
+      "title": "DeepSeek Launches Search and Fetch API at $0.75 Per 1k Requests",
+      "date": "2026-10-18",
+      "tags": [
+        "deepseek",
+        "ai",
+        "api",
+        "search",
+        "developer"
+      ],
+      "summary": "DeepSeek has introduced search and fetch features for its API, priced at $0.75 per 1,000 successful requests. Here is what developers need to know.",
+      "source_url": "https://api-docs.deepseek.com/guides/search/",
+      "source_title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "slug": "2026-10-18-deepseek-launches-search-and-fetch-api-at-075-per-1k-requests",
+      "file": "posts/2026-10-18-deepseek-launches-search-and-fetch-api-at-075-per-1k-requests.md"
+    },
+    {
+      "title": "Codex Desktop Bug Triggers Endless Background Crash Dumps",
+      "date": "2026-10-18",
+      "tags": [
+        "openai",
+        "codex",
+        "bugs",
+        "devtools"
+      ],
+      "summary": "OpenAI Codex Desktop users report a persistent bug where the app repeatedly generates Crashpad pending dumps in the background.",
+      "source_url": "https://github.com/openai/codex/issues/25921",
+      "source_title": "Codex Desktop continuously generates Crashpad pending dumps",
+      "slug": "2026-10-18-codex-desktop-bug-triggers-endless-background-crash-dumps",
+      "file": "posts/2026-10-18-codex-desktop-bug-triggers-endless-background-crash-dumps.md"
+    },
     {
       "title": "DeepSeek V4.1 Flash Drops on Hugging Face",
       "date": "2026-10-17",

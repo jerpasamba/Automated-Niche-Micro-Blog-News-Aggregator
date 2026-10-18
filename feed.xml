@@ -2,8 +2,24 @@
 <ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom">
   <ns0:title>NichePulse</ns0:title>
   <ns0:id>https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/</ns0:id>
-  <ns0:updated>2026-10-17T10:16:16Z</ns0:updated>
+  <ns0:updated>2026-10-18T10:32:00Z</ns0:updated>
   <ns0:link rel="self" href="https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/feed.xml" />
+  <ns0:entry>
+    <ns0:title>DeepSeek Launches Search and Fetch API at $0.75 Per 1k Requests</ns0:title>
+    <ns0:id>urn:uuid:432588ce49bfa67ccb6040522b956231</ns0:id>
+    <ns0:link rel="alternate" href="https://api-docs.deepseek.com/guides/search/" />
+    <ns0:summary>DeepSeek has introduced search and fetch features for its API, priced at $0.75 per 1,000 successful requests. Here is what developers need to know.</ns0:summary>
+    <ns0:published>2026-10-18T00:00:00Z</ns0:published>
+    <ns0:updated>2026-10-18T00:00:00Z</ns0:updated>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:title>Codex Desktop Bug Triggers Endless Background Crash Dumps</ns0:title>
+    <ns0:id>urn:uuid:74a30a25cd89b70cf4cc7b95b2bb3df7</ns0:id>
+    <ns0:link rel="alternate" href="https://github.com/openai/codex/issues/25921" />
+    <ns0:summary>OpenAI Codex Desktop users report a persistent bug where the app repeatedly generates Crashpad pending dumps in the background.</ns0:summary>
+    <ns0:published>2026-10-18T00:00:00Z</ns0:published>
+    <ns0:updated>2026-10-18T00:00:00Z</ns0:updated>
+  </ns0:entry>
   <ns0:entry>
     <ns0:title>DeepSeek V4.1 Flash Drops on Hugging Face</ns0:title>
     <ns0:id>urn:uuid:1597327e7cabd9e53d5a35d1231f9f8c</ns0:id>
