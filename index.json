@@ -3,9 +3,39 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-10-19T12:23:09Z",
-  "count": 109,
+  "generated": "2026-10-21T11:19:35Z",
+  "count": 111,
   "posts": [
+    {
+      "title": "Play BZFlag Directly in Your Web Browser with Battlezone Online",
+      "date": "2026-10-21",
+      "tags": [
+        "opensource",
+        "gaming",
+        "browser"
+      ],
+      "summary": "Battlezone Online brings classic BZFlag gameplay directly into your web browser via a new open-source project.",
+      "source_url": "https://github.com/timriker/bzo",
+      "source_title": "Battlezone Online: BZFlag in the Browser",
+      "slug": "2026-10-21-play-bzflag-directly-in-your-web-browser-with-battlezone-online",
+      "file": "posts/2026-10-21-play-bzflag-directly-in-your-web-browser-with-battlezone-online.md"
+    },
+    {
+      "title": "C# Beats Rust in WebAssembly Binary Size Optimization",
+      "date": "2026-10-21",
+      "tags": [
+        "wasm",
+        "csharp",
+        "rust",
+        "webassembly",
+        "tech"
+      ],
+      "summary": "WebAssembly development is seeing a surprising shift. New benchmarks reveal C# successfully beating Rust when it comes to WASM binary payload sizes.",
+      "source_url": "https://github.com/zion-sati/NetWasm",
+      "source_title": "C# now beats Rust on WASM size",
+      "slug": "2026-10-21-c-beats-rust-in-webassembly-binary-size-optimization",
+      "file": "posts/2026-10-21-c-beats-rust-in-webassembly-binary-size-optimization.md"
+    },
     {
       "title": "DeepSeek Launches Search and Fetch API at $0.75 Per 1k Requests",
       "date": "2026-10-18",
