@@ -3,9 +3,24 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-10-21T11:19:35Z",
-  "count": 111,
+  "generated": "2026-10-22T11:18:26Z",
+  "count": 112,
   "posts": [
+    {
+      "title": "Blazing Fast Mapping: 3.7M Map Polygons Triangulated in 489ms",
+      "date": "2026-10-22",
+      "tags": [
+        "geospatial",
+        "mapping",
+        "algorithms",
+        "performance"
+      ],
+      "summary": "A new benchmark shows how to triangulate 3.7 million map polygons in just 489 milliseconds, outperforming the popular earcut library.",
+      "source_url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+      "source_title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+      "slug": "2026-10-22-blazing-fast-mapping-37m-map-polygons-triangulated-in-489ms",
+      "file": "posts/2026-10-22-blazing-fast-mapping-37m-map-polygons-triangulated-in-489ms.md"
+    },
     {
       "title": "Play BZFlag Directly in Your Web Browser with Battlezone Online",
       "date": "2026-10-21",

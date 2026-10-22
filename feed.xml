@@ -2,8 +2,16 @@
 <ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom">
   <ns0:title>NichePulse</ns0:title>
   <ns0:id>https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/</ns0:id>
-  <ns0:updated>2026-10-21T11:19:35Z</ns0:updated>
+  <ns0:updated>2026-10-22T11:18:26Z</ns0:updated>
   <ns0:link rel="self" href="https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/feed.xml" />
+  <ns0:entry>
+    <ns0:title>Blazing Fast Mapping: 3.7M Map Polygons Triangulated in 489ms</ns0:title>
+    <ns0:id>urn:uuid:26c579c2430a2b57c0238364933517ec</ns0:id>
+    <ns0:link rel="alternate" href="https://globus.software/blog/2026/10/16/cutting-map-polygons/" />
+    <ns0:summary>A new benchmark shows how to triangulate 3.7 million map polygons in just 489 milliseconds, outperforming the popular earcut library.</ns0:summary>
+    <ns0:published>2026-10-22T00:00:00Z</ns0:published>
+    <ns0:updated>2026-10-22T00:00:00Z</ns0:updated>
+  </ns0:entry>
   <ns0:entry>
     <ns0:title>Play BZFlag Directly in Your Web Browser with Battlezone Online</ns0:title>
     <ns0:id>urn:uuid:08dcd970efa51ae40aba03d978faab9e</ns0:id>
