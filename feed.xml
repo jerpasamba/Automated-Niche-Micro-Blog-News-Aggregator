@@ -2,8 +2,16 @@
 <ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom">
   <ns0:title>NichePulse</ns0:title>
   <ns0:id>https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/</ns0:id>
-  <ns0:updated>2026-10-22T11:18:26Z</ns0:updated>
+  <ns0:updated>2026-10-23T11:09:28Z</ns0:updated>
   <ns0:link rel="self" href="https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/feed.xml" />
+  <ns0:entry>
+    <ns0:title>LLM Evals vs Reality: The Rise and Fall of Jev</ns0:title>
+    <ns0:id>urn:uuid:17e7ec1f4aa94d37dd01733054d11950</ns0:id>
+    <ns0:link rel="alternate" href="https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm" />
+    <ns0:summary>A closer look at the story of Jev, examining the tension between AI benchmark hype and practical LLM performance.</ns0:summary>
+    <ns0:published>2026-10-23T00:00:00Z</ns0:published>
+    <ns0:updated>2026-10-23T00:00:00Z</ns0:updated>
+  </ns0:entry>
   <ns0:entry>
     <ns0:title>Blazing Fast Mapping: 3.7M Map Polygons Triangulated in 489ms</ns0:title>
     <ns0:id>urn:uuid:26c579c2430a2b57c0238364933517ec</ns0:id>

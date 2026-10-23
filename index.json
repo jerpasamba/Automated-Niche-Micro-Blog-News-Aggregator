@@ -3,9 +3,24 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-10-22T11:18:26Z",
-  "count": 112,
+  "generated": "2026-10-23T11:09:28Z",
+  "count": 113,
   "posts": [
+    {
+      "title": "LLM Evals vs Reality: The Rise and Fall of Jev",
+      "date": "2026-10-23",
+      "tags": [
+        "ai",
+        "llm",
+        "evals",
+        "tech"
+      ],
+      "summary": "A closer look at the story of Jev, examining the tension between AI benchmark hype and practical LLM performance.",
+      "source_url": "https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm",
+      "source_title": "The Rise and Fall of Jev",
+      "slug": "2026-10-23-llm-evals-vs-reality-the-rise-and-fall-of-jev",
+      "file": "posts/2026-10-23-llm-evals-vs-reality-the-rise-and-fall-of-jev.md"
+    },
     {
       "title": "Blazing Fast Mapping: 3.7M Map Polygons Triangulated in 489ms",
       "date": "2026-10-22",
