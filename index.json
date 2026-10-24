@@ -3,9 +3,39 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-10-23T11:09:28Z",
-  "count": 113,
+  "generated": "2026-10-24T10:26:27Z",
+  "count": 115,
   "posts": [
+    {
+      "title": "JetBrains Introduces ThinkRail",
+      "date": "2026-10-24",
+      "tags": [
+        "jetbrains",
+        "thinkrail",
+        "tech",
+        "tools"
+      ],
+      "summary": "JetBrains has unveiled ThinkRail, sparking early discussions across the developer community.",
+      "source_url": "https://thinkrail.ai/",
+      "source_title": "ThinkRail from JetBrains",
+      "slug": "2026-10-24-jetbrains-introduces-thinkrail",
+      "file": "posts/2026-10-24-jetbrains-introduces-thinkrail.md"
+    },
+    {
+      "title": "Hacker Uncovers Hidden AI Listening Feature on Samsung TV",
+      "date": "2026-10-24",
+      "tags": [
+        "ai",
+        "samsung",
+        "hacking",
+        "hardware"
+      ],
+      "summary": "A hacker reverse-engineered a Samsung TV and discovered embedded AI listening capabilities, leading to an unexpected OpenAI account suspension.",
+      "source_url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+      "source_title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+      "slug": "2026-10-24-hacker-uncovers-hidden-ai-listening-feature-on-samsung-tv",
+      "file": "posts/2026-10-24-hacker-uncovers-hidden-ai-listening-feature-on-samsung-tv.md"
+    },
     {
       "title": "LLM Evals vs Reality: The Rise and Fall of Jev",
       "date": "2026-10-23",
