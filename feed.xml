@@ -2,8 +2,24 @@
 <ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom">
   <ns0:title>NichePulse</ns0:title>
   <ns0:id>https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/</ns0:id>
-  <ns0:updated>2026-10-24T10:26:27Z</ns0:updated>
+  <ns0:updated>2026-10-25T10:53:49Z</ns0:updated>
   <ns0:link rel="self" href="https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/feed.xml" />
+  <ns0:entry>
+    <ns0:title>France Prepares Temporary DNS Blocks for Major Social Networks</ns0:title>
+    <ns0:id>urn:uuid:3ce62552f4c76f80ecce0fa643e990c3</ns0:id>
+    <ns0:link rel="alternate" href="https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ" />
+    <ns0:summary>French authorities have instructed internet service providers to prepare temporary DNS blocks targeting major social media networks. Here is the latest on this network policy update.</ns0:summary>
+    <ns0:published>2026-10-25T00:00:00Z</ns0:published>
+    <ns0:updated>2026-10-25T00:00:00Z</ns0:updated>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:title>Cerebras Breaks Down Trillion-Parameter AI Deployments</ns0:title>
+    <ns0:id>urn:uuid:1fd2ed95c576161103bf0a96b8987bff</ns0:id>
+    <ns0:link rel="alternate" href="https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras" />
+    <ns0:summary>Cerebras just revealed how it deploys massive, trillion-parameter frontier AI models on its specialized hardware. Discover how wafer-scale compute handles giant workloads.</ns0:summary>
+    <ns0:published>2026-10-25T00:00:00Z</ns0:published>
+    <ns0:updated>2026-10-25T00:00:00Z</ns0:updated>
+  </ns0:entry>
   <ns0:entry>
     <ns0:title>JetBrains Introduces ThinkRail</ns0:title>
     <ns0:id>urn:uuid:20142d65ecb5e70552187eb6f1a8e78f</ns0:id>

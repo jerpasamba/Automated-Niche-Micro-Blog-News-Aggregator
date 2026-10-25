@@ -3,9 +3,40 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-10-24T10:26:27Z",
-  "count": 115,
+  "generated": "2026-10-25T10:53:49Z",
+  "count": 117,
   "posts": [
+    {
+      "title": "France Prepares Temporary DNS Blocks for Major Social Networks",
+      "date": "2026-10-25",
+      "tags": [
+        "france",
+        "tech",
+        "policy",
+        "networking",
+        "censorship"
+      ],
+      "summary": "French authorities have instructed internet service providers to prepare temporary DNS blocks targeting major social media networks. Here is the latest on this network policy update.",
+      "source_url": "https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ",
+      "source_title": "France asked ISPs to prepare temporary DNS blocks for major social platforms",
+      "slug": "2026-10-25-france-prepares-temporary-dns-blocks-for-major-social-networks",
+      "file": "posts/2026-10-25-france-prepares-temporary-dns-blocks-for-major-social-networks.md"
+    },
+    {
+      "title": "Cerebras Breaks Down Trillion-Parameter AI Deployments",
+      "date": "2026-10-25",
+      "tags": [
+        "ai",
+        "hardware",
+        "cerebras",
+        "tech"
+      ],
+      "summary": "Cerebras just revealed how it deploys massive, trillion-parameter frontier AI models on its specialized hardware. Discover how wafer-scale compute handles giant workloads.",
+      "source_url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "source_title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "slug": "2026-10-25-cerebras-breaks-down-trillion-parameter-ai-deployments",
+      "file": "posts/2026-10-25-cerebras-breaks-down-trillion-parameter-ai-deployments.md"
+    },
     {
       "title": "JetBrains Introduces ThinkRail",
       "date": "2026-10-24",
