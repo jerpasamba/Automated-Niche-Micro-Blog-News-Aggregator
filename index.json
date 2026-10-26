@@ -3,9 +3,40 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-10-25T10:53:49Z",
-  "count": 117,
+  "generated": "2026-10-26T12:25:07Z",
+  "count": 119,
   "posts": [
+    {
+      "title": "TitleArt Brings Retro 90s Text Styling Back to the Web",
+      "date": "2026-10-26",
+      "tags": [
+        "design",
+        "indiehacker",
+        "retro",
+        "tools",
+        "web"
+      ],
+      "summary": "Step back into the early web with TitleArt, a fun indie tool built to generate nostalgic 1997-style text graphics instantly.",
+      "source_url": "https://titleart.dvy.io/",
+      "source_title": "Show HN: TitleArt – Make text like it's 1997",
+      "slug": "2026-10-26-titleart-brings-retro-90s-text-styling-back-to-the-web",
+      "file": "posts/2026-10-26-titleart-brings-retro-90s-text-styling-back-to-the-web.md"
+    },
+    {
+      "title": "Mapping Switzerland Block by Block at 1:1 Scale",
+      "date": "2026-10-26",
+      "tags": [
+        "mapping",
+        "3d",
+        "geospatial",
+        "indie"
+      ],
+      "summary": "A new digital project recreates the entire nation of Switzerland block by block at a true-to-life 1:1 scale.",
+      "source_url": "https://blocks.manifold3d.ch/",
+      "source_title": "Switzerland. Block by block. At 1:1 scale",
+      "slug": "2026-10-26-mapping-switzerland-block-by-block-at-11-scale",
+      "file": "posts/2026-10-26-mapping-switzerland-block-by-block-at-11-scale.md"
+    },
     {
       "title": "France Prepares Temporary DNS Blocks for Major Social Networks",
       "date": "2026-10-25",

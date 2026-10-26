@@ -2,8 +2,24 @@
 <ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom">
   <ns0:title>NichePulse</ns0:title>
   <ns0:id>https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/</ns0:id>
-  <ns0:updated>2026-10-25T10:53:49Z</ns0:updated>
+  <ns0:updated>2026-10-26T12:25:07Z</ns0:updated>
   <ns0:link rel="self" href="https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/feed.xml" />
+  <ns0:entry>
+    <ns0:title>TitleArt Brings Retro 90s Text Styling Back to the Web</ns0:title>
+    <ns0:id>urn:uuid:3015f609097474ac2d790fac84881e51</ns0:id>
+    <ns0:link rel="alternate" href="https://titleart.dvy.io/" />
+    <ns0:summary>Step back into the early web with TitleArt, a fun indie tool built to generate nostalgic 1997-style text graphics instantly.</ns0:summary>
+    <ns0:published>2026-10-26T00:00:00Z</ns0:published>
+    <ns0:updated>2026-10-26T00:00:00Z</ns0:updated>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:title>Mapping Switzerland Block by Block at 1:1 Scale</ns0:title>
+    <ns0:id>urn:uuid:570314540e8f4ef1faa7f195b8c50a7a</ns0:id>
+    <ns0:link rel="alternate" href="https://blocks.manifold3d.ch/" />
+    <ns0:summary>A new digital project recreates the entire nation of Switzerland block by block at a true-to-life 1:1 scale.</ns0:summary>
+    <ns0:published>2026-10-26T00:00:00Z</ns0:published>
+    <ns0:updated>2026-10-26T00:00:00Z</ns0:updated>
+  </ns0:entry>
   <ns0:entry>
     <ns0:title>France Prepares Temporary DNS Blocks for Major Social Networks</ns0:title>
     <ns0:id>urn:uuid:3ce62552f4c76f80ecce0fa643e990c3</ns0:id>
