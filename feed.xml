@@ -2,8 +2,24 @@
 <ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom">
   <ns0:title>NichePulse</ns0:title>
   <ns0:id>https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/</ns0:id>
-  <ns0:updated>2026-10-26T12:25:07Z</ns0:updated>
+  <ns0:updated>2026-10-27T11:43:29Z</ns0:updated>
   <ns0:link rel="self" href="https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/feed.xml" />
+  <ns0:entry>
+    <ns0:title>Wikipedia Launches Cleanup Effort for AI Generated Writing</ns0:title>
+    <ns0:id>urn:uuid:0bd47251b879068ce05bbc6083bcf5cf</ns0:id>
+    <ns0:link rel="alternate" href="https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup" />
+    <ns0:summary>Wikipedia editors are actively working to spot and remove AI-generated text across the platform to safeguard article quality.</ns0:summary>
+    <ns0:published>2026-10-27T00:00:00Z</ns0:published>
+    <ns0:updated>2026-10-27T00:00:00Z</ns0:updated>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:title>Roblox Scrapes 145GB of 3D Models From Open3DLab Without Permission</ns0:title>
+    <ns0:id>urn:uuid:70756a96aebff0196412828d8151c26a</ns0:id>
+    <ns0:link rel="alternate" href="https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/" />
+    <ns0:summary>Open3DLab revealed that Roblox automatically downloaded 145GB of 3D assets from their platform without asking, pulling in explicit content alongside standard models.</ns0:summary>
+    <ns0:published>2026-10-27T00:00:00Z</ns0:published>
+    <ns0:updated>2026-10-27T00:00:00Z</ns0:updated>
+  </ns0:entry>
   <ns0:entry>
     <ns0:title>TitleArt Brings Retro 90s Text Styling Back to the Web</ns0:title>
     <ns0:id>urn:uuid:3015f609097474ac2d790fac84881e51</ns0:id>

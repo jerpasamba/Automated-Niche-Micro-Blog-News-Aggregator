@@ -3,9 +3,39 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-10-26T12:25:07Z",
-  "count": 119,
+  "generated": "2026-10-27T11:43:29Z",
+  "count": 121,
   "posts": [
+    {
+      "title": "Wikipedia Launches Cleanup Effort for AI Generated Writing",
+      "date": "2026-10-27",
+      "tags": [
+        "ai",
+        "wikipedia",
+        "tech",
+        "content"
+      ],
+      "summary": "Wikipedia editors are actively working to spot and remove AI-generated text across the platform to safeguard article quality.",
+      "source_url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "source_title": "Wikipedia's Cleanup of AI-Generated Content",
+      "slug": "2026-10-27-wikipedia-launches-cleanup-effort-for-ai-generated-writing",
+      "file": "posts/2026-10-27-wikipedia-launches-cleanup-effort-for-ai-generated-writing.md"
+    },
+    {
+      "title": "Roblox Scrapes 145GB of 3D Models From Open3DLab Without Permission",
+      "date": "2026-10-27",
+      "tags": [
+        "roblox",
+        "scraping",
+        "tech",
+        "gaming"
+      ],
+      "summary": "Open3DLab revealed that Roblox automatically downloaded 145GB of 3D assets from their platform without asking, pulling in explicit content alongside standard models.",
+      "source_url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+      "source_title": "Roblox downloaded 145GB models from us (including adult content) without asking",
+      "slug": "2026-10-27-roblox-scrapes-145gb-of-3d-models-from-open3dlab-without-permiss",
+      "file": "posts/2026-10-27-roblox-scrapes-145gb-of-3d-models-from-open3dlab-without-permiss.md"
+    },
     {
       "title": "TitleArt Brings Retro 90s Text Styling Back to the Web",
       "date": "2026-10-26",
