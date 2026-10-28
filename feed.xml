@@ -2,8 +2,24 @@
 <ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom">
   <ns0:title>NichePulse</ns0:title>
   <ns0:id>https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/</ns0:id>
-  <ns0:updated>2026-10-27T11:43:29Z</ns0:updated>
+  <ns0:updated>2026-10-28T12:16:48Z</ns0:updated>
   <ns0:link rel="self" href="https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/feed.xml" />
+  <ns0:entry>
+    <ns0:title>Version Control Meets Legal Tech in Git for the US Code</ns0:title>
+    <ns0:id>urn:uuid:b5b3b8394f1451fa94392f33854ade15</ns0:id>
+    <ns0:link rel="alternate" href="https://lexifina.com/blog/git-for-the-us-code" />
+    <ns0:summary>Explore how Git version control concepts are being applied to track and navigate the United States Code in a fresh developer-focused concept.</ns0:summary>
+    <ns0:published>2026-10-28T00:00:00Z</ns0:published>
+    <ns0:updated>2026-10-28T00:00:00Z</ns0:updated>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:title>macOS Git Still Trusts Compromised eMudhra Certificates</ns0:title>
+    <ns0:id>urn:uuid:af7d8e09f17cfc67f5101478e958c32b</ns0:id>
+    <ns0:link rel="alternate" href="https://emudhra.we-have-a-problem.com/apple.html" />
+    <ns0:summary>Ten days after security issues were highlighted, Git configurations on macOS still maintain trust in compromised eMudhra certificates.</ns0:summary>
+    <ns0:published>2026-10-28T00:00:00Z</ns0:published>
+    <ns0:updated>2026-10-28T00:00:00Z</ns0:updated>
+  </ns0:entry>
   <ns0:entry>
     <ns0:title>Wikipedia Launches Cleanup Effort for AI Generated Writing</ns0:title>
     <ns0:id>urn:uuid:0bd47251b879068ce05bbc6083bcf5cf</ns0:id>

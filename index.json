@@ -3,9 +3,39 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-10-27T11:43:29Z",
-  "count": 121,
+  "generated": "2026-10-28T12:16:48Z",
+  "count": 123,
   "posts": [
+    {
+      "title": "Version Control Meets Legal Tech in Git for the US Code",
+      "date": "2026-10-28",
+      "tags": [
+        "git",
+        "legaltech",
+        "opensource",
+        "developer"
+      ],
+      "summary": "Explore how Git version control concepts are being applied to track and navigate the United States Code in a fresh developer-focused concept.",
+      "source_url": "https://lexifina.com/blog/git-for-the-us-code",
+      "source_title": "Git for the US Code",
+      "slug": "2026-10-28-version-control-meets-legal-tech-in-git-for-the-us-code",
+      "file": "posts/2026-10-28-version-control-meets-legal-tech-in-git-for-the-us-code.md"
+    },
+    {
+      "title": "macOS Git Still Trusts Compromised eMudhra Certificates",
+      "date": "2026-10-28",
+      "tags": [
+        "git",
+        "macos",
+        "security",
+        "tech"
+      ],
+      "summary": "Ten days after security issues were highlighted, Git configurations on macOS still maintain trust in compromised eMudhra certificates.",
+      "source_url": "https://emudhra.we-have-a-problem.com/apple.html",
+      "source_title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
+      "slug": "2026-10-28-macos-git-still-trusts-compromised-emudhra-certificates",
+      "file": "posts/2026-10-28-macos-git-still-trusts-compromised-emudhra-certificates.md"
+    },
     {
       "title": "Wikipedia Launches Cleanup Effort for AI Generated Writing",
       "date": "2026-10-27",
