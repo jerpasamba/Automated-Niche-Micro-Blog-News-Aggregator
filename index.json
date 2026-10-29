@@ -3,9 +3,39 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-10-28T12:16:48Z",
-  "count": 123,
+  "generated": "2026-10-29T12:26:17Z",
+  "count": 125,
   "posts": [
+    {
+      "title": "US Grid Powers Up With Record 20.2 GWh Battery Surge",
+      "date": "2026-10-29",
+      "tags": [
+        "energy",
+        "cleantech",
+        "hardware",
+        "infrastructure"
+      ],
+      "summary": "The US just set a massive new benchmark for energy infrastructure, adding a record 20.2 GWh of battery storage in a single quarter.",
+      "source_url": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
+      "source_title": "The US added a record 20.2 GWh of battery storage in just 3 months",
+      "slug": "2026-10-29-us-grid-powers-up-with-record-202-gwh-battery-surge",
+      "file": "posts/2026-10-29-us-grid-powers-up-with-record-202-gwh-battery-surge.md"
+    },
+    {
+      "title": "UK Farming Simulator: A Fresh Indie Launch on Show HN",
+      "date": "2026-10-29",
+      "tags": [
+        "indiehacker",
+        "simulation",
+        "webtech",
+        "launch"
+      ],
+      "summary": "Check out UK Farming Simulator, a new browser project recently shared by an indie creator on Hacker News.",
+      "source_url": "https://butterbean.farm/",
+      "source_title": "Show HN: UK Farming Simulator",
+      "slug": "2026-10-29-uk-farming-simulator-a-fresh-indie-launch-on-show-hn",
+      "file": "posts/2026-10-29-uk-farming-simulator-a-fresh-indie-launch-on-show-hn.md"
+    },
     {
       "title": "Version Control Meets Legal Tech in Git for the US Code",
       "date": "2026-10-28",
