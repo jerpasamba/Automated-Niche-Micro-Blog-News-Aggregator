@@ -3,9 +3,40 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-10-29T12:26:17Z",
-  "count": 125,
+  "generated": "2026-10-30T12:17:42Z",
+  "count": 127,
   "posts": [
+    {
+      "title": "Pico CSS Officially Reaches End of Active Maintenance",
+      "date": "2026-10-30",
+      "tags": [
+        "css",
+        "opensource",
+        "webdev",
+        "tech"
+      ],
+      "summary": "Pico CSS has officially halted active maintenance. Here is what indie hackers and developers need to know about the project status.",
+      "source_url": "https://github.com/picocss/pico/discussions/754",
+      "source_title": "Pico CSS is no longer maintained",
+      "slug": "2026-10-30-pico-css-officially-reaches-end-of-active-maintenance",
+      "file": "posts/2026-10-30-pico-css-officially-reaches-end-of-active-maintenance.md"
+    },
+    {
+      "title": "Anthropic Compromised to Deliver Remote Access Trojan to Developers",
+      "date": "2026-10-30",
+      "tags": [
+        "anthropic",
+        "cybersecurity",
+        "claude",
+        "ai",
+        "security"
+      ],
+      "summary": "A security breach at Anthropic resulted in the delivery of a remote access trojan to Claude developer laptops around the world.",
+      "source_url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+      "source_title": "Anthropic hacked to deliver remote access trojan",
+      "slug": "2026-10-30-anthropic-compromised-to-deliver-remote-access-trojan-to-develop",
+      "file": "posts/2026-10-30-anthropic-compromised-to-deliver-remote-access-trojan-to-develop.md"
+    },
     {
       "title": "US Grid Powers Up With Record 20.2 GWh Battery Surge",
       "date": "2026-10-29",

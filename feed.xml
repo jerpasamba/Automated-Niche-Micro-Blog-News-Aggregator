@@ -2,8 +2,24 @@
 <ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom">
   <ns0:title>NichePulse</ns0:title>
   <ns0:id>https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/</ns0:id>
-  <ns0:updated>2026-10-29T12:26:17Z</ns0:updated>
+  <ns0:updated>2026-10-30T12:17:42Z</ns0:updated>
   <ns0:link rel="self" href="https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/feed.xml" />
+  <ns0:entry>
+    <ns0:title>Pico CSS Officially Reaches End of Active Maintenance</ns0:title>
+    <ns0:id>urn:uuid:fb59d5277422890534243a2c5a67a27f</ns0:id>
+    <ns0:link rel="alternate" href="https://github.com/picocss/pico/discussions/754" />
+    <ns0:summary>Pico CSS has officially halted active maintenance. Here is what indie hackers and developers need to know about the project status.</ns0:summary>
+    <ns0:published>2026-10-30T00:00:00Z</ns0:published>
+    <ns0:updated>2026-10-30T00:00:00Z</ns0:updated>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:title>Anthropic Compromised to Deliver Remote Access Trojan to Developers</ns0:title>
+    <ns0:id>urn:uuid:543a20b01068b9a6898546b57d52bf74</ns0:id>
+    <ns0:link rel="alternate" href="https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2" />
+    <ns0:summary>A security breach at Anthropic resulted in the delivery of a remote access trojan to Claude developer laptops around the world.</ns0:summary>
+    <ns0:published>2026-10-30T00:00:00Z</ns0:published>
+    <ns0:updated>2026-10-30T00:00:00Z</ns0:updated>
+  </ns0:entry>
   <ns0:entry>
     <ns0:title>US Grid Powers Up With Record 20.2 GWh Battery Surge</ns0:title>
     <ns0:id>urn:uuid:ce056a869d96f1466620ab1317b61cf6</ns0:id>
