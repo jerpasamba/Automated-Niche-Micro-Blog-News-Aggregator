@@ -3,9 +3,39 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-10-30T12:17:42Z",
-  "count": 127,
+  "generated": "2026-10-31T11:51:01Z",
+  "count": 129,
   "posts": [
+    {
+      "title": "Test Your Star Trek Knowledge With TNG Episodle",
+      "date": "2026-10-31",
+      "tags": [
+        "indie",
+        "games",
+        "webdev",
+        "launch"
+      ],
+      "summary": "An indie developer released a Star Trek: The Next Generation episode guessing game created to honor Sir Patrick Stewart.",
+      "source_url": "https://tng.episodle.com/",
+      "source_title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+      "slug": "2026-10-31-test-your-star-trek-knowledge-with-tng-episodle",
+      "file": "posts/2026-10-31-test-your-star-trek-knowledge-with-tng-episodle.md"
+    },
+    {
+      "title": "OpenAI Security Gap Allowed ChatGPT Account Takeovers",
+      "date": "2026-10-31",
+      "tags": [
+        "ai",
+        "openai",
+        "security",
+        "chatgpt"
+      ],
+      "summary": "Researchers at Parameter AI discovered a security flaw in OpenAI's platform that enabled them to take over ChatGPT accounts.",
+      "source_url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "source_title": "We Took over ChatGPT Accounts",
+      "slug": "2026-10-31-openai-security-gap-allowed-chatgpt-account-takeovers",
+      "file": "posts/2026-10-31-openai-security-gap-allowed-chatgpt-account-takeovers.md"
+    },
     {
       "title": "Pico CSS Officially Reaches End of Active Maintenance",
       "date": "2026-10-30",

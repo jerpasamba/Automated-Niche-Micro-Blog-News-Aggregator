@@ -2,8 +2,24 @@
 <ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom">
   <ns0:title>NichePulse</ns0:title>
   <ns0:id>https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/</ns0:id>
-  <ns0:updated>2026-10-30T12:17:42Z</ns0:updated>
+  <ns0:updated>2026-10-31T11:51:01Z</ns0:updated>
   <ns0:link rel="self" href="https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/feed.xml" />
+  <ns0:entry>
+    <ns0:title>Test Your Star Trek Knowledge With TNG Episodle</ns0:title>
+    <ns0:id>urn:uuid:341b6f388b2848948e719e7df551eb87</ns0:id>
+    <ns0:link rel="alternate" href="https://tng.episodle.com/" />
+    <ns0:summary>An indie developer released a Star Trek: The Next Generation episode guessing game created to honor Sir Patrick Stewart.</ns0:summary>
+    <ns0:published>2026-10-31T00:00:00Z</ns0:published>
+    <ns0:updated>2026-10-31T00:00:00Z</ns0:updated>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:title>OpenAI Security Gap Allowed ChatGPT Account Takeovers</ns0:title>
+    <ns0:id>urn:uuid:8dcdbdcf1cfa3d7931998815663d90c1</ns0:id>
+    <ns0:link rel="alternate" href="https://www.parameter.ai/labs/we-found-a-gap-at-openai" />
+    <ns0:summary>Researchers at Parameter AI discovered a security flaw in OpenAI's platform that enabled them to take over ChatGPT accounts.</ns0:summary>
+    <ns0:published>2026-10-31T00:00:00Z</ns0:published>
+    <ns0:updated>2026-10-31T00:00:00Z</ns0:updated>
+  </ns0:entry>
   <ns0:entry>
     <ns0:title>Pico CSS Officially Reaches End of Active Maintenance</ns0:title>
     <ns0:id>urn:uuid:fb59d5277422890534243a2c5a67a27f</ns0:id>
