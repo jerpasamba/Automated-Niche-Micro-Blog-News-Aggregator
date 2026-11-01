@@ -3,9 +3,39 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-10-31T11:51:01Z",
-  "count": 129,
+  "generated": "2026-11-01T12:48:14Z",
+  "count": 131,
   "posts": [
+    {
+      "title": "Counting the AI Cost of JavaScript Frameworks",
+      "date": "2026-11-01",
+      "tags": [
+        "ai",
+        "javascript",
+        "frameworks",
+        "tech"
+      ],
+      "summary": "Nolan Lawson evaluates the hidden AI costs tied to modern JavaScript frameworks and how tech stack choices impact engineering overhead.",
+      "source_url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "source_title": "The AI cost of JavaScript frameworks",
+      "slug": "2026-11-01-counting-the-ai-cost-of-javascript-frameworks",
+      "file": "posts/2026-11-01-counting-the-ai-cost-of-javascript-frameworks.md"
+    },
+    {
+      "title": "Brazilian Court Penalizes Lawyers Over Prompt Injection in Court Filing",
+      "date": "2026-11-01",
+      "tags": [
+        "ai",
+        "security",
+        "tech",
+        "law"
+      ],
+      "summary": "A Brazilian court sanctioned lawyers for trying to manipulate legal AI tools using prompt injection techniques inside official documents.",
+      "source_url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+      "source_title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "slug": "2026-11-01-brazilian-court-penalizes-lawyers-over-prompt-injection-in-court",
+      "file": "posts/2026-11-01-brazilian-court-penalizes-lawyers-over-prompt-injection-in-court.md"
+    },
     {
       "title": "Test Your Star Trek Knowledge With TNG Episodle",
       "date": "2026-10-31",

@@ -2,8 +2,24 @@
 <ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom">
   <ns0:title>NichePulse</ns0:title>
   <ns0:id>https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/</ns0:id>
-  <ns0:updated>2026-10-31T11:51:01Z</ns0:updated>
+  <ns0:updated>2026-11-01T12:48:14Z</ns0:updated>
   <ns0:link rel="self" href="https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/feed.xml" />
+  <ns0:entry>
+    <ns0:title>Counting the AI Cost of JavaScript Frameworks</ns0:title>
+    <ns0:id>urn:uuid:521d6b1276dc105fa9c0705d77f39d54</ns0:id>
+    <ns0:link rel="alternate" href="https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/" />
+    <ns0:summary>Nolan Lawson evaluates the hidden AI costs tied to modern JavaScript frameworks and how tech stack choices impact engineering overhead.</ns0:summary>
+    <ns0:published>2026-11-01T00:00:00Z</ns0:published>
+    <ns0:updated>2026-11-01T00:00:00Z</ns0:updated>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:title>Brazilian Court Penalizes Lawyers Over Prompt Injection in Court Filing</ns0:title>
+    <ns0:id>urn:uuid:46bd20b41fe2c88cd7d8750d1f578c15</ns0:id>
+    <ns0:link rel="alternate" href="https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/" />
+    <ns0:summary>A Brazilian court sanctioned lawyers for trying to manipulate legal AI tools using prompt injection techniques inside official documents.</ns0:summary>
+    <ns0:published>2026-11-01T00:00:00Z</ns0:published>
+    <ns0:updated>2026-11-01T00:00:00Z</ns0:updated>
+  </ns0:entry>
   <ns0:entry>
     <ns0:title>Test Your Star Trek Knowledge With TNG Episodle</ns0:title>
     <ns0:id>urn:uuid:341b6f388b2848948e719e7df551eb87</ns0:id>
