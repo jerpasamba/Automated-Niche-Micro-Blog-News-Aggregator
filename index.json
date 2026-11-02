@@ -3,9 +3,38 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-11-01T12:48:14Z",
-  "count": 131,
+  "generated": "2026-11-02T14:58:21Z",
+  "count": 133,
   "posts": [
+    {
+      "title": "Wikihack Turns Hacker News Wikipedia Links Into a Scrollable Feed",
+      "date": "2026-11-02",
+      "tags": [
+        "indiehackers",
+        "tools",
+        "webdev",
+        "wikipedia"
+      ],
+      "summary": "Explore the most discussed Wikipedia articles across Hacker News threads with Wikihack, a fresh web tool inspired by Andrej Karpathy's recent projects.",
+      "source_url": "https://wikihack.netlify.app",
+      "source_title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
+      "slug": "2026-11-02-wikihack-turns-hacker-news-wikipedia-links-into-a-scrollable-fee",
+      "file": "posts/2026-11-02-wikihack-turns-hacker-news-wikipedia-links-into-a-scrollable-fee.md"
+    },
+    {
+      "title": "OccupySaaS Sparks Massive Tech Discussion",
+      "date": "2026-11-02",
+      "tags": [
+        "saas",
+        "indiehackers",
+        "tech"
+      ],
+      "summary": "OccupySaaS is capturing developer attention on Hacker News, generating hundreds of comments and points in the tech community.",
+      "source_url": "https://occupysaas.com/",
+      "source_title": "OccupySaaS",
+      "slug": "2026-11-02-occupysaas-sparks-massive-tech-discussion",
+      "file": "posts/2026-11-02-occupysaas-sparks-massive-tech-discussion.md"
+    },
     {
       "title": "Counting the AI Cost of JavaScript Frameworks",
       "date": "2026-11-01",

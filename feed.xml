@@ -2,8 +2,24 @@
 <ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom">
   <ns0:title>NichePulse</ns0:title>
   <ns0:id>https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/</ns0:id>
-  <ns0:updated>2026-11-01T12:48:14Z</ns0:updated>
+  <ns0:updated>2026-11-02T14:58:21Z</ns0:updated>
   <ns0:link rel="self" href="https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/feed.xml" />
+  <ns0:entry>
+    <ns0:title>Wikihack Turns Hacker News Wikipedia Links Into a Scrollable Feed</ns0:title>
+    <ns0:id>urn:uuid:42b99d6180d6f5ea87a08d3896ccc5a3</ns0:id>
+    <ns0:link rel="alternate" href="https://wikihack.netlify.app" />
+    <ns0:summary>Explore the most discussed Wikipedia articles across Hacker News threads with Wikihack, a fresh web tool inspired by Andrej Karpathy's recent projects.</ns0:summary>
+    <ns0:published>2026-11-02T00:00:00Z</ns0:published>
+    <ns0:updated>2026-11-02T00:00:00Z</ns0:updated>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:title>OccupySaaS Sparks Massive Tech Discussion</ns0:title>
+    <ns0:id>urn:uuid:5328c442c2df6ed12b0e7613d358e11d</ns0:id>
+    <ns0:link rel="alternate" href="https://occupysaas.com/" />
+    <ns0:summary>OccupySaaS is capturing developer attention on Hacker News, generating hundreds of comments and points in the tech community.</ns0:summary>
+    <ns0:published>2026-11-02T00:00:00Z</ns0:published>
+    <ns0:updated>2026-11-02T00:00:00Z</ns0:updated>
+  </ns0:entry>
   <ns0:entry>
     <ns0:title>Counting the AI Cost of JavaScript Frameworks</ns0:title>
     <ns0:id>urn:uuid:521d6b1276dc105fa9c0705d77f39d54</ns0:id>
