@@ -3,9 +3,25 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-11-02T14:58:21Z",
-  "count": 133,
+  "generated": "2026-11-03T13:46:51Z",
+  "count": 134,
   "posts": [
+    {
+      "title": "NIST Releases New Cybersecurity Guide for Solopreneurs",
+      "date": "2026-11-03",
+      "tags": [
+        "cybersecurity",
+        "solopreneur",
+        "nist",
+        "security",
+        "tech"
+      ],
+      "summary": "NIST has released a specialized cybersecurity guide designed specifically to help solopreneurs and self-employed founders secure their digital operations.",
+      "source_url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
+      "source_title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+      "slug": "2026-11-03-nist-releases-new-cybersecurity-guide-for-solopreneurs",
+      "file": "posts/2026-11-03-nist-releases-new-cybersecurity-guide-for-solopreneurs.md"
+    },
     {
       "title": "Wikihack Turns Hacker News Wikipedia Links Into a Scrollable Feed",
       "date": "2026-11-02",
