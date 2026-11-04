@@ -3,9 +3,39 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-11-03T13:46:51Z",
-  "count": 134,
+  "generated": "2026-11-04T13:54:52Z",
+  "count": 136,
   "posts": [
+    {
+      "title": "AI Pioneer Geoffrey Hinton Questions If Humanity Needed AI",
+      "date": "2026-11-04",
+      "tags": [
+        "ai",
+        "tech",
+        "safety",
+        "future"
+      ],
+      "summary": "Geoffrey Hinton shares a sobering perspective on artificial intelligence, raising questions about whether society might ultimately be better off without it.",
+      "source_url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+      "source_title": "Geoffrey Hinton: it might turn out we were better off without AI",
+      "slug": "2026-11-04-ai-pioneer-geoffrey-hinton-questions-if-humanity-needed-ai",
+      "file": "posts/2026-11-04-ai-pioneer-geoffrey-hinton-questions-if-humanity-needed-ai.md"
+    },
+    {
+      "title": "AI Is Forcing Tech to Address 40 Years of Technical Debt",
+      "date": "2026-11-04",
+      "tags": [
+        "ai",
+        "cybersecurity",
+        "software",
+        "tech"
+      ],
+      "summary": "Artificial intelligence is changing cybersecurity by exposing legacy software flaws. Developers are now compelled to clean up decades of accumulated technical debt.",
+      "source_url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "source_title": "AI is forcing us to pay off 40 years of technical debt",
+      "slug": "2026-11-04-ai-is-forcing-tech-to-address-40-years-of-technical-debt",
+      "file": "posts/2026-11-04-ai-is-forcing-tech-to-address-40-years-of-technical-debt.md"
+    },
     {
       "title": "NIST Releases New Cybersecurity Guide for Solopreneurs",
       "date": "2026-11-03",

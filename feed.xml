@@ -2,8 +2,24 @@
 <ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom">
   <ns0:title>NichePulse</ns0:title>
   <ns0:id>https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/</ns0:id>
-  <ns0:updated>2026-11-03T13:46:51Z</ns0:updated>
+  <ns0:updated>2026-11-04T13:54:52Z</ns0:updated>
   <ns0:link rel="self" href="https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/feed.xml" />
+  <ns0:entry>
+    <ns0:title>AI Pioneer Geoffrey Hinton Questions If Humanity Needed AI</ns0:title>
+    <ns0:id>urn:uuid:0bfb1f05472a17b9314e7ef2f2bdba56</ns0:id>
+    <ns0:link rel="alternate" href="https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai" />
+    <ns0:summary>Geoffrey Hinton shares a sobering perspective on artificial intelligence, raising questions about whether society might ultimately be better off without it.</ns0:summary>
+    <ns0:published>2026-11-04T00:00:00Z</ns0:published>
+    <ns0:updated>2026-11-04T00:00:00Z</ns0:updated>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:title>AI Is Forcing Tech to Address 40 Years of Technical Debt</ns0:title>
+    <ns0:id>urn:uuid:920ed378ba71b6f5a5286f5fad210eb8</ns0:id>
+    <ns0:link rel="alternate" href="https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability" />
+    <ns0:summary>Artificial intelligence is changing cybersecurity by exposing legacy software flaws. Developers are now compelled to clean up decades of accumulated technical debt.</ns0:summary>
+    <ns0:published>2026-11-04T00:00:00Z</ns0:published>
+    <ns0:updated>2026-11-04T00:00:00Z</ns0:updated>
+  </ns0:entry>
   <ns0:entry>
     <ns0:title>NIST Releases New Cybersecurity Guide for Solopreneurs</ns0:title>
     <ns0:id>urn:uuid:b65cd40b84e97a7ff0b58b44d8009ee1</ns0:id>
