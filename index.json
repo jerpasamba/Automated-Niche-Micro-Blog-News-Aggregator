@@ -3,9 +3,40 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-11-05T14:09:33Z",
-  "count": 136,
+  "generated": "2026-11-06T13:52:20Z",
+  "count": 138,
   "posts": [
+    {
+      "title": "Statistical Learning vs Traditional AI: The Great Modeling Debate",
+      "date": "2026-11-06",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "statistics",
+        "data"
+      ],
+      "summary": "Dive into the fundamental debate between statistical machine learning paradigms and traditional cognitive approaches to modeling.",
+      "source_url": "https://www.norvig.com/chomsky.html",
+      "source_title": "Chomsky and the Two Cultures of Statistical Learning",
+      "slug": "2026-11-06-statistical-learning-vs-traditional-ai-the-great-modeling-debate",
+      "file": "posts/2026-11-06-statistical-learning-vs-traditional-ai-the-great-modeling-debate.md"
+    },
+    {
+      "title": "Dutch ASN Bank Blocks Custom Android ROMs Like GrapheneOS",
+      "date": "2026-11-06",
+      "tags": [
+        "android",
+        "grapheneos",
+        "privacy",
+        "security",
+        "tech"
+      ],
+      "summary": "ASN Bank is cutting off access for users running non-Google Android builds, creating major headaches for privacy-focused GrapheneOS users.",
+      "source_url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+      "source_title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+      "slug": "2026-11-06-dutch-asn-bank-blocks-custom-android-roms-like-grapheneos",
+      "file": "posts/2026-11-06-dutch-asn-bank-blocks-custom-android-roms-like-grapheneos.md"
+    },
     {
       "title": "AI Pioneer Geoffrey Hinton Questions If Humanity Needed AI",
       "date": "2026-11-04",

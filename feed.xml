@@ -2,8 +2,24 @@
 <ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom">
   <ns0:title>NichePulse</ns0:title>
   <ns0:id>https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/</ns0:id>
-  <ns0:updated>2026-11-05T14:09:33Z</ns0:updated>
+  <ns0:updated>2026-11-06T13:52:20Z</ns0:updated>
   <ns0:link rel="self" href="https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/feed.xml" />
+  <ns0:entry>
+    <ns0:title>Statistical Learning vs Traditional AI: The Great Modeling Debate</ns0:title>
+    <ns0:id>urn:uuid:8f5775c09596b5d34ac0ed02b23677d9</ns0:id>
+    <ns0:link rel="alternate" href="https://www.norvig.com/chomsky.html" />
+    <ns0:summary>Dive into the fundamental debate between statistical machine learning paradigms and traditional cognitive approaches to modeling.</ns0:summary>
+    <ns0:published>2026-11-06T00:00:00Z</ns0:published>
+    <ns0:updated>2026-11-06T00:00:00Z</ns0:updated>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:title>Dutch ASN Bank Blocks Custom Android ROMs Like GrapheneOS</ns0:title>
+    <ns0:id>urn:uuid:f80a234a59948232f2e2a7ecd1121861</ns0:id>
+    <ns0:link rel="alternate" href="https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105" />
+    <ns0:summary>ASN Bank is cutting off access for users running non-Google Android builds, creating major headaches for privacy-focused GrapheneOS users.</ns0:summary>
+    <ns0:published>2026-11-06T00:00:00Z</ns0:published>
+    <ns0:updated>2026-11-06T00:00:00Z</ns0:updated>
+  </ns0:entry>
   <ns0:entry>
     <ns0:title>AI Pioneer Geoffrey Hinton Questions If Humanity Needed AI</ns0:title>
     <ns0:id>urn:uuid:0bfb1f05472a17b9314e7ef2f2bdba56</ns0:id>
