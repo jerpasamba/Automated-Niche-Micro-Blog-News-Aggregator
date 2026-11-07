@@ -3,9 +3,40 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-11-06T13:52:20Z",
-  "count": 138,
+  "generated": "2026-11-07T12:35:57Z",
+  "count": 140,
   "posts": [
+    {
+      "title": "Hidden Mac System Features an Undocumented Family Classifier",
+      "date": "2026-11-07",
+      "tags": [
+        "mac",
+        "apple",
+        "hardware",
+        "tech"
+      ],
+      "summary": "Mac devices include an unadvertised built-in tool that categorizes family members as part of personal knowledge data.",
+      "source_url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "source_title": "Every Mac comes with an (undocumented) family member classifier",
+      "slug": "2026-11-07-hidden-mac-system-features-an-undocumented-family-classifier",
+      "file": "posts/2026-11-07-hidden-mac-system-features-an-undocumented-family-classifier.md"
+    },
+    {
+      "title": "Discord Dumps Electron to Slash Memory Usage on Windows 11",
+      "date": "2026-11-07",
+      "tags": [
+        "discord",
+        "electron",
+        "windows",
+        "performance",
+        "tech"
+      ],
+      "summary": "Discord is proving that moving away from Electron pays off. A new update eliminates startup screens and slashes memory consumption dramatically.",
+      "source_url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+      "source_title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+      "slug": "2026-11-07-discord-dumps-electron-to-slash-memory-usage-on-windows-11",
+      "file": "posts/2026-11-07-discord-dumps-electron-to-slash-memory-usage-on-windows-11.md"
+    },
     {
       "title": "Statistical Learning vs Traditional AI: The Great Modeling Debate",
       "date": "2026-11-06",
