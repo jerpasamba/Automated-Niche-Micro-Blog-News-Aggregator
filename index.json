@@ -3,9 +3,39 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-11-07T12:35:57Z",
-  "count": 140,
+  "generated": "2026-11-08T12:53:17Z",
+  "count": 142,
   "posts": [
+    {
+      "title": "Run 284B DeepSeek Models on 64GB RAM Without a GPU",
+      "date": "2026-11-08",
+      "tags": [
+        "ai",
+        "opensource",
+        "deepseek",
+        "llm"
+      ],
+      "summary": "Llama-modchip lets developers run massive 284B DeepSeek AI models on just 64GB of RAM with zero GPU requirements.",
+      "source_url": "https://github.com/synchopate/llama-modchip",
+      "source_title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "slug": "2026-11-08-run-284b-deepseek-models-on-64gb-ram-without-a-gpu",
+      "file": "posts/2026-11-08-run-284b-deepseek-models-on-64gb-ram-without-a-gpu.md"
+    },
+    {
+      "title": "JIT Bitmap Text Rendering Takes On Microcontrollers",
+      "date": "2026-11-08",
+      "tags": [
+        "microcontrollers",
+        "rendering",
+        "graphics",
+        "embedded"
+      ],
+      "summary": "Linebender explores a fresh technique for displaying crisp text on low-power microcontrollers using Just-In-Time bitmap rendering.",
+      "source_url": "https://linebender.org/blog/jit-bitmap-text/",
+      "source_title": "JIT bitmap text rendering for microcontrollers",
+      "slug": "2026-11-08-jit-bitmap-text-rendering-takes-on-microcontrollers",
+      "file": "posts/2026-11-08-jit-bitmap-text-rendering-takes-on-microcontrollers.md"
+    },
     {
       "title": "Hidden Mac System Features an Undocumented Family Classifier",
       "date": "2026-11-07",
