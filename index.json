@@ -3,9 +3,39 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-11-08T12:53:17Z",
-  "count": 142,
+  "generated": "2026-11-09T15:28:37Z",
+  "count": 144,
   "posts": [
+    {
+      "title": "Flide Delivers 9.5x Speed Boost for Jev Decision Model Inference",
+      "date": "2026-11-09",
+      "tags": [
+        "ai",
+        "opensource",
+        "inference",
+        "tech"
+      ],
+      "summary": "Say goodbye to slow decision model inference. Flide is a new open-source engine offering up to 9.5x faster performance compared to popular alternatives.",
+      "source_url": "https://github.com/OmniJev/Flide",
+      "source_title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
+      "slug": "2026-11-09-flide-delivers-95x-speed-boost-for-jev-decision-model-inference",
+      "file": "posts/2026-11-09-flide-delivers-95x-speed-boost-for-jev-decision-model-inference.md"
+    },
+    {
+      "title": "Critical Security Flaw Discovered in Global Connected Car Systems",
+      "date": "2026-11-09",
+      "tags": [
+        "cybersecurity",
+        "automotive",
+        "security",
+        "tech"
+      ],
+      "summary": "A new security report uncovers a major flaw enabling unauthorized remote access to vehicles from a major car brand worldwide. Here is what you need to know about connected car security.",
+      "source_url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+      "source_title": "Unlocking any car from X brand in most of the world",
+      "slug": "2026-11-09-critical-security-flaw-discovered-in-global-connected-car-system",
+      "file": "posts/2026-11-09-critical-security-flaw-discovered-in-global-connected-car-system.md"
+    },
     {
       "title": "Run 284B DeepSeek Models on 64GB RAM Without a GPU",
       "date": "2026-11-08",

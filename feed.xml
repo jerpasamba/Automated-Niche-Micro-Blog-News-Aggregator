@@ -2,8 +2,24 @@
 <ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom">
   <ns0:title>NichePulse</ns0:title>
   <ns0:id>https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/</ns0:id>
-  <ns0:updated>2026-11-08T12:53:17Z</ns0:updated>
+  <ns0:updated>2026-11-09T15:28:37Z</ns0:updated>
   <ns0:link rel="self" href="https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/feed.xml" />
+  <ns0:entry>
+    <ns0:title>Flide Delivers 9.5x Speed Boost for Jev Decision Model Inference</ns0:title>
+    <ns0:id>urn:uuid:14a293d052b8f48ad16729c172440150</ns0:id>
+    <ns0:link rel="alternate" href="https://github.com/OmniJev/Flide" />
+    <ns0:summary>Say goodbye to slow decision model inference. Flide is a new open-source engine offering up to 9.5x faster performance compared to popular alternatives.</ns0:summary>
+    <ns0:published>2026-11-09T00:00:00Z</ns0:published>
+    <ns0:updated>2026-11-09T00:00:00Z</ns0:updated>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:title>Critical Security Flaw Discovered in Global Connected Car Systems</ns0:title>
+    <ns0:id>urn:uuid:52565f3fc5ea39bd2e9d7992874aaba0</ns0:id>
+    <ns0:link rel="alternate" href="https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/" />
+    <ns0:summary>A new security report uncovers a major flaw enabling unauthorized remote access to vehicles from a major car brand worldwide. Here is what you need to know about connected car security.</ns0:summary>
+    <ns0:published>2026-11-09T00:00:00Z</ns0:published>
+    <ns0:updated>2026-11-09T00:00:00Z</ns0:updated>
+  </ns0:entry>
   <ns0:entry>
     <ns0:title>Run 284B DeepSeek Models on 64GB RAM Without a GPU</ns0:title>
     <ns0:id>urn:uuid:6b0917a3667d0d772e1cdf02c58ccf09</ns0:id>
