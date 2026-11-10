@@ -2,8 +2,24 @@
 <ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom">
   <ns0:title>NichePulse</ns0:title>
   <ns0:id>https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/</ns0:id>
-  <ns0:updated>2026-11-09T15:28:37Z</ns0:updated>
+  <ns0:updated>2026-11-10T14:29:02Z</ns0:updated>
   <ns0:link rel="self" href="https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/feed.xml" />
+  <ns0:entry>
+    <ns0:title>Queens Public Library E-Borrowing Offline After Ransomware Attack</ns0:title>
+    <ns0:id>urn:uuid:8392dbeb0b446365066c85f56044ab61</ns0:id>
+    <ns0:link rel="alternate" href="https://connect.queenslibrary.org/" />
+    <ns0:summary>A ransomware cyberattack on the Queens Public Library has forced the system to suspend its e-borrowing services.</ns0:summary>
+    <ns0:published>2026-11-10T00:00:00Z</ns0:published>
+    <ns0:updated>2026-11-10T00:00:00Z</ns0:updated>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:title>Amazon Swaps Sonnet for Strands Decider to Cut AI Costs</ns0:title>
+    <ns0:id>urn:uuid:772077985629aac625c16192fbefa9e6</ns0:id>
+    <ns0:link rel="alternate" href="https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/" />
+    <ns0:summary>Amazon is cutting major enterprise expenses by replacing Claude Sonnet with Strands Decider. Here is why lightweight AI routing is gaining ground.</ns0:summary>
+    <ns0:published>2026-11-10T00:00:00Z</ns0:published>
+    <ns0:updated>2026-11-10T00:00:00Z</ns0:updated>
+  </ns0:entry>
   <ns0:entry>
     <ns0:title>Flide Delivers 9.5x Speed Boost for Jev Decision Model Inference</ns0:title>
     <ns0:id>urn:uuid:14a293d052b8f48ad16729c172440150</ns0:id>

@@ -3,9 +3,39 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-11-09T15:28:37Z",
-  "count": 144,
+  "generated": "2026-11-10T14:29:02Z",
+  "count": 146,
   "posts": [
+    {
+      "title": "Queens Public Library E-Borrowing Offline After Ransomware Attack",
+      "date": "2026-11-10",
+      "tags": [
+        "cybersecurity",
+        "ransomware",
+        "tech",
+        "news"
+      ],
+      "summary": "A ransomware cyberattack on the Queens Public Library has forced the system to suspend its e-borrowing services.",
+      "source_url": "https://connect.queenslibrary.org/",
+      "source_title": "Queens Public library under ransomware attack e-borrowing suspended",
+      "slug": "2026-11-10-queens-public-library-e-borrowing-offline-after-ransomware-attac",
+      "file": "posts/2026-11-10-queens-public-library-e-borrowing-offline-after-ransomware-attac.md"
+    },
+    {
+      "title": "Amazon Swaps Sonnet for Strands Decider to Cut AI Costs",
+      "date": "2026-11-10",
+      "tags": [
+        "ai",
+        "models",
+        "optimization",
+        "amazon"
+      ],
+      "summary": "Amazon is cutting major enterprise expenses by replacing Claude Sonnet with Strands Decider. Here is why lightweight AI routing is gaining ground.",
+      "source_url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "source_title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "slug": "2026-11-10-amazon-swaps-sonnet-for-strands-decider-to-cut-ai-costs",
+      "file": "posts/2026-11-10-amazon-swaps-sonnet-for-strands-decider-to-cut-ai-costs.md"
+    },
     {
       "title": "Flide Delivers 9.5x Speed Boost for Jev Decision Model Inference",
       "date": "2026-11-09",
