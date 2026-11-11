@@ -3,9 +3,39 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-11-10T14:29:02Z",
-  "count": 146,
+  "generated": "2026-11-11T13:42:15Z",
+  "count": 148,
   "posts": [
+    {
+      "title": "Physically Controllable Photo Relighting Project Unveiled",
+      "date": "2026-11-11",
+      "tags": [
+        "ai",
+        "photography",
+        "graphics",
+        "relighting"
+      ],
+      "summary": "A new tech project explores physically controllable relighting for single photographs to enable realistic image lighting adjustments.",
+      "source_url": "https://yaksoy.github.io/PhysicalRelighting/",
+      "source_title": "Physically Controllable Relighting of Photographs",
+      "slug": "2026-11-11-physically-controllable-photo-relighting-project-unveiled",
+      "file": "posts/2026-11-11-physically-controllable-photo-relighting-project-unveiled.md"
+    },
+    {
+      "title": "Google Engineer Uses 48 AI Agents to Discover Hidden Maya Pyramid",
+      "date": "2026-11-11",
+      "tags": [
+        "ai",
+        "agents",
+        "lidar",
+        "archeology"
+      ],
+      "summary": "A Google software engineer deployed 48 AI agents to analyze NASA Lidar data, revealing an unmapped Maya pyramid in just 72 hours.",
+      "source_url": "https://pietromiotti.com/latest/maya-site/?maya",
+      "source_title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "slug": "2026-11-11-google-engineer-uses-48-ai-agents-to-discover-hidden-maya-pyrami",
+      "file": "posts/2026-11-11-google-engineer-uses-48-ai-agents-to-discover-hidden-maya-pyrami.md"
+    },
     {
       "title": "Queens Public Library E-Borrowing Offline After Ransomware Attack",
       "date": "2026-11-10",

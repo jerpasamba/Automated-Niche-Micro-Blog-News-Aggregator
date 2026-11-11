@@ -2,8 +2,24 @@
 <ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom">
   <ns0:title>NichePulse</ns0:title>
   <ns0:id>https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/</ns0:id>
-  <ns0:updated>2026-11-10T14:29:02Z</ns0:updated>
+  <ns0:updated>2026-11-11T13:42:15Z</ns0:updated>
   <ns0:link rel="self" href="https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/feed.xml" />
+  <ns0:entry>
+    <ns0:title>Physically Controllable Photo Relighting Project Unveiled</ns0:title>
+    <ns0:id>urn:uuid:1da1b5e799172304767156e5848cc9f2</ns0:id>
+    <ns0:link rel="alternate" href="https://yaksoy.github.io/PhysicalRelighting/" />
+    <ns0:summary>A new tech project explores physically controllable relighting for single photographs to enable realistic image lighting adjustments.</ns0:summary>
+    <ns0:published>2026-11-11T00:00:00Z</ns0:published>
+    <ns0:updated>2026-11-11T00:00:00Z</ns0:updated>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:title>Google Engineer Uses 48 AI Agents to Discover Hidden Maya Pyramid</ns0:title>
+    <ns0:id>urn:uuid:62406e8ae8b0978e7faa22d4e8a1b43c</ns0:id>
+    <ns0:link rel="alternate" href="https://pietromiotti.com/latest/maya-site/?maya" />
+    <ns0:summary>A Google software engineer deployed 48 AI agents to analyze NASA Lidar data, revealing an unmapped Maya pyramid in just 72 hours.</ns0:summary>
+    <ns0:published>2026-11-11T00:00:00Z</ns0:published>
+    <ns0:updated>2026-11-11T00:00:00Z</ns0:updated>
+  </ns0:entry>
   <ns0:entry>
     <ns0:title>Queens Public Library E-Borrowing Offline After Ransomware Attack</ns0:title>
     <ns0:id>urn:uuid:8392dbeb0b446365066c85f56044ab61</ns0:id>
