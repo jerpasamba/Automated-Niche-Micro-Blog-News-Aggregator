@@ -3,9 +3,41 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-11-11T13:42:15Z",
-  "count": 148,
+  "generated": "2026-11-12T14:45:28Z",
+  "count": 150,
   "posts": [
+    {
+      "title": "Inside AMD Zen 6: Mike Clark Shares Architecture Insights",
+      "date": "2026-11-12",
+      "tags": [
+        "amd",
+        "zen6",
+        "hardware",
+        "processors",
+        "chips"
+      ],
+      "summary": "Chips and Cheese sits down with AMD's Mike Clark for an in-depth technical discussion about the upcoming Zen 6 architecture.",
+      "source_url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+      "source_title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+      "slug": "2026-11-12-inside-amd-zen-6-mike-clark-shares-architecture-insights",
+      "file": "posts/2026-11-12-inside-amd-zen-6-mike-clark-shares-architecture-insights.md"
+    },
+    {
+      "title": "Compact Battery Tech Brings Cooler Power to Electric Ships",
+      "date": "2026-11-12",
+      "tags": [
+        "hardware",
+        "cleantech",
+        "energy",
+        "maritime",
+        "tech"
+      ],
+      "summary": "Next-gen electric ship batteries offer a more compact footprint and cooler operating temperatures for maritime transport.",
+      "source_url": "https://spectrum.ieee.org/electric-ship-batteries",
+      "source_title": "Electric Ship Batteries Promise Compact, Cooler Power",
+      "slug": "2026-11-12-compact-battery-tech-brings-cooler-power-to-electric-ships",
+      "file": "posts/2026-11-12-compact-battery-tech-brings-cooler-power-to-electric-ships.md"
+    },
     {
       "title": "Physically Controllable Photo Relighting Project Unveiled",
       "date": "2026-11-11",

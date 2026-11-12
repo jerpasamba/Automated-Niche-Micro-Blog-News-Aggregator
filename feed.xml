@@ -2,8 +2,24 @@
 <ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom">
   <ns0:title>NichePulse</ns0:title>
   <ns0:id>https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/</ns0:id>
-  <ns0:updated>2026-11-11T13:42:15Z</ns0:updated>
+  <ns0:updated>2026-11-12T14:45:28Z</ns0:updated>
   <ns0:link rel="self" href="https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/feed.xml" />
+  <ns0:entry>
+    <ns0:title>Inside AMD Zen 6: Mike Clark Shares Architecture Insights</ns0:title>
+    <ns0:id>urn:uuid:058f6e8b2a336576ef2612cc6d38c1e4</ns0:id>
+    <ns0:link rel="alternate" href="https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at" />
+    <ns0:summary>Chips and Cheese sits down with AMD's Mike Clark for an in-depth technical discussion about the upcoming Zen 6 architecture.</ns0:summary>
+    <ns0:published>2026-11-12T00:00:00Z</ns0:published>
+    <ns0:updated>2026-11-12T00:00:00Z</ns0:updated>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:title>Compact Battery Tech Brings Cooler Power to Electric Ships</ns0:title>
+    <ns0:id>urn:uuid:16d6ddc051516c89af746c9268fc6acc</ns0:id>
+    <ns0:link rel="alternate" href="https://spectrum.ieee.org/electric-ship-batteries" />
+    <ns0:summary>Next-gen electric ship batteries offer a more compact footprint and cooler operating temperatures for maritime transport.</ns0:summary>
+    <ns0:published>2026-11-12T00:00:00Z</ns0:published>
+    <ns0:updated>2026-11-12T00:00:00Z</ns0:updated>
+  </ns0:entry>
   <ns0:entry>
     <ns0:title>Physically Controllable Photo Relighting Project Unveiled</ns0:title>
     <ns0:id>urn:uuid:1da1b5e799172304767156e5848cc9f2</ns0:id>
