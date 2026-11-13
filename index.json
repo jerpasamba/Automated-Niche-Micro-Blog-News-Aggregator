@@ -3,9 +3,39 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-11-12T14:45:28Z",
-  "count": 150,
+  "generated": "2026-11-13T14:10:41Z",
+  "count": 152,
   "posts": [
+    {
+      "title": "Reflota Brings Open-Source Data Recovery to NTFS and FAT Disks",
+      "date": "2026-11-13",
+      "tags": [
+        "opensource",
+        "datarecovery",
+        "storage",
+        "utilities"
+      ],
+      "summary": "Discover Reflota, a new open-source utility designed to recover data from NTFS and FAT file systems using a smart phased copy approach.",
+      "source_url": "https://github.com/Christ10-8/reflota",
+      "source_title": "Show HN: Reflota – Open-source data recovery for NTFS/FAT disks with phased copy",
+      "slug": "2026-11-13-reflota-brings-open-source-data-recovery-to-ntfs-and-fat-disks",
+      "file": "posts/2026-11-13-reflota-brings-open-source-data-recovery-to-ntfs-and-fat-disks.md"
+    },
+    {
+      "title": "Eli Lilly CEO Challenges Anthropic CEO Over AI Medical Claims",
+      "date": "2026-11-13",
+      "tags": [
+        "ai",
+        "biotech",
+        "anthropic",
+        "news"
+      ],
+      "summary": "A major pharma leader is pushing back against bold predictions about AI in healthcare. Here is what is happening in the debate over AI medical claims.",
+      "source_url": "https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest",
+      "source_title": "Eli Lilly CEO pushes back on Dario Amodei's ludicrous medical claims",
+      "slug": "2026-11-13-eli-lilly-ceo-challenges-anthropic-ceo-over-ai-medical-claims",
+      "file": "posts/2026-11-13-eli-lilly-ceo-challenges-anthropic-ceo-over-ai-medical-claims.md"
+    },
     {
       "title": "Inside AMD Zen 6: Mike Clark Shares Architecture Insights",
       "date": "2026-11-12",

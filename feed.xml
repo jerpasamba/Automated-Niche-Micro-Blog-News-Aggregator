@@ -2,8 +2,24 @@
 <ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom">
   <ns0:title>NichePulse</ns0:title>
   <ns0:id>https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/</ns0:id>
-  <ns0:updated>2026-11-12T14:45:28Z</ns0:updated>
+  <ns0:updated>2026-11-13T14:10:41Z</ns0:updated>
   <ns0:link rel="self" href="https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/feed.xml" />
+  <ns0:entry>
+    <ns0:title>Reflota Brings Open-Source Data Recovery to NTFS and FAT Disks</ns0:title>
+    <ns0:id>urn:uuid:abf1532ab1c380afaf1c5dd64fafd625</ns0:id>
+    <ns0:link rel="alternate" href="https://github.com/Christ10-8/reflota" />
+    <ns0:summary>Discover Reflota, a new open-source utility designed to recover data from NTFS and FAT file systems using a smart phased copy approach.</ns0:summary>
+    <ns0:published>2026-11-13T00:00:00Z</ns0:published>
+    <ns0:updated>2026-11-13T00:00:00Z</ns0:updated>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:title>Eli Lilly CEO Challenges Anthropic CEO Over AI Medical Claims</ns0:title>
+    <ns0:id>urn:uuid:a7047bf28fc52324dbcf0f16bb8d42e6</ns0:id>
+    <ns0:link rel="alternate" href="https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest" />
+    <ns0:summary>A major pharma leader is pushing back against bold predictions about AI in healthcare. Here is what is happening in the debate over AI medical claims.</ns0:summary>
+    <ns0:published>2026-11-13T00:00:00Z</ns0:published>
+    <ns0:updated>2026-11-13T00:00:00Z</ns0:updated>
+  </ns0:entry>
   <ns0:entry>
     <ns0:title>Inside AMD Zen 6: Mike Clark Shares Architecture Insights</ns0:title>
     <ns0:id>urn:uuid:058f6e8b2a336576ef2612cc6d38c1e4</ns0:id>
