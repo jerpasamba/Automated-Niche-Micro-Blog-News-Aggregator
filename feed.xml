@@ -2,8 +2,24 @@
 <ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom">
   <ns0:title>NichePulse</ns0:title>
   <ns0:id>https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/</ns0:id>
-  <ns0:updated>2026-11-13T14:10:41Z</ns0:updated>
+  <ns0:updated>2026-11-14T13:05:34Z</ns0:updated>
   <ns0:link rel="self" href="https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/feed.xml" />
+  <ns0:entry>
+    <ns0:title>GGML Reaches Milestone v1.0.0 Release</ns0:title>
+    <ns0:id>urn:uuid:787f125a0bd0f24107a28a805733db84</ns0:id>
+    <ns0:link rel="alternate" href="https://github.com/ggml-org/ggml/releases/tag/v1.0.0" />
+    <ns0:summary>The popular open-source library GGML has officially released version 1.0.0, marking a major milestone for machine learning infrastructure.</ns0:summary>
+    <ns0:published>2026-11-14T00:00:00Z</ns0:published>
+    <ns0:updated>2026-11-14T00:00:00Z</ns0:updated>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:title>Did Nvidia Create Artificial GPU Shortages by Funding AI Startups?</ns0:title>
+    <ns0:id>urn:uuid:b6a2bb51350eeea331debb39158d30bb</ns0:id>
+    <ns0:link rel="alternate" href="https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus" />
+    <ns0:summary>Allegations surface claiming Nvidia may have engineered artificial GPU scarcity by directly bankrolling AI startups to purchase its own hardware.</ns0:summary>
+    <ns0:published>2026-11-14T00:00:00Z</ns0:published>
+    <ns0:updated>2026-11-14T00:00:00Z</ns0:updated>
+  </ns0:entry>
   <ns0:entry>
     <ns0:title>Reflota Brings Open-Source Data Recovery to NTFS and FAT Disks</ns0:title>
     <ns0:id>urn:uuid:abf1532ab1c380afaf1c5dd64fafd625</ns0:id>

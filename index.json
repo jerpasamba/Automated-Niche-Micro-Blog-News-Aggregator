@@ -3,9 +3,39 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-11-13T14:10:41Z",
-  "count": 152,
+  "generated": "2026-11-14T13:05:34Z",
+  "count": 154,
   "posts": [
+    {
+      "title": "GGML Reaches Milestone v1.0.0 Release",
+      "date": "2026-11-14",
+      "tags": [
+        "ai",
+        "ggml",
+        "opensource",
+        "tech"
+      ],
+      "summary": "The popular open-source library GGML has officially released version 1.0.0, marking a major milestone for machine learning infrastructure.",
+      "source_url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "source_title": "Ggml v1.0.0",
+      "slug": "2026-11-14-ggml-reaches-milestone-v100-release",
+      "file": "posts/2026-11-14-ggml-reaches-milestone-v100-release.md"
+    },
+    {
+      "title": "Did Nvidia Create Artificial GPU Shortages by Funding AI Startups?",
+      "date": "2026-11-14",
+      "tags": [
+        "nvidia",
+        "gpus",
+        "ai",
+        "hardware"
+      ],
+      "summary": "Allegations surface claiming Nvidia may have engineered artificial GPU scarcity by directly bankrolling AI startups to purchase its own hardware.",
+      "source_url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "source_title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "slug": "2026-11-14-did-nvidia-create-artificial-gpu-shortages-by-funding-ai-startup",
+      "file": "posts/2026-11-14-did-nvidia-create-artificial-gpu-shortages-by-funding-ai-startup.md"
+    },
     {
       "title": "Reflota Brings Open-Source Data Recovery to NTFS and FAT Disks",
       "date": "2026-11-13",
