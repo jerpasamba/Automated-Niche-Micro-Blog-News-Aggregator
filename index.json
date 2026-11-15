@@ -3,9 +3,40 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-11-14T13:05:34Z",
-  "count": 154,
+  "generated": "2026-11-15T13:34:13Z",
+  "count": 156,
   "posts": [
+    {
+      "title": "Meet Kiri: A Fresh Take on the Modern Container Runtime",
+      "date": "2026-11-15",
+      "tags": [
+        "containers",
+        "devtools",
+        "infrastructure",
+        "software"
+      ],
+      "summary": "Developers have a new infrastructure project to track. Meet Kiri, a modern container runtime building early buzz in the developer community.",
+      "source_url": "https://runkiri.com/",
+      "source_title": "Kiri – The Modern Container Runtime",
+      "slug": "2026-11-15-meet-kiri-a-fresh-take-on-the-modern-container-runtime",
+      "file": "posts/2026-11-15-meet-kiri-a-fresh-take-on-the-modern-container-runtime.md"
+    },
+    {
+      "title": "Debate Grows Over Proposed Changes to U.S. Semiconductor Regulations",
+      "date": "2026-11-15",
+      "tags": [
+        "chips",
+        "hardware",
+        "policy",
+        "semiconductors",
+        "regulation"
+      ],
+      "summary": "Efforts to relax semiconductor restrictions are drawing attention due to potential conflicts of interest tied to family business overlaps.",
+      "source_url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+      "source_title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+      "slug": "2026-11-15-debate-grows-over-proposed-changes-to-us-semiconductor-regulatio",
+      "file": "posts/2026-11-15-debate-grows-over-proposed-changes-to-us-semiconductor-regulatio.md"
+    },
     {
       "title": "GGML Reaches Milestone v1.0.0 Release",
       "date": "2026-11-14",
