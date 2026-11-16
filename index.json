@@ -3,9 +3,39 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-11-15T13:34:13Z",
-  "count": 156,
+  "generated": "2026-11-16T15:08:19Z",
+  "count": 158,
   "posts": [
+    {
+      "title": "Qwen4-Max Arrives: The Latest Release from the Qwen Team",
+      "date": "2026-11-16",
+      "tags": [
+        "ai",
+        "qwen",
+        "models",
+        "tech"
+      ],
+      "summary": "The Qwen team has released Qwen4-Max, instantly triggering widespread community interest and developer discussion.",
+      "source_url": "https://qwen.ai/blog?id=qwen4-max",
+      "source_title": "Qwen4-Max",
+      "slug": "2026-11-16-qwen4-max-arrives-the-latest-release-from-the-qwen-team",
+      "file": "posts/2026-11-16-qwen4-max-arrives-the-latest-release-from-the-qwen-team.md"
+    },
+    {
+      "title": "Formal Math Verification Advances with Lean Theorem Prover",
+      "date": "2026-11-16",
+      "tags": [
+        "lean",
+        "math",
+        "opensource",
+        "tech"
+      ],
+      "summary": "Mathematical proof verification is reaching new milestones as researchers use the open-source Lean theorem prover to check complex logic.",
+      "source_url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
+      "source_title": "“…and the proof is checked in Lean”",
+      "slug": "2026-11-16-formal-math-verification-advances-with-lean-theorem-prover",
+      "file": "posts/2026-11-16-formal-math-verification-advances-with-lean-theorem-prover.md"
+    },
     {
       "title": "Meet Kiri: A Fresh Take on the Modern Container Runtime",
       "date": "2026-11-15",
