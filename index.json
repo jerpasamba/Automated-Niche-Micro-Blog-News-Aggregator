@@ -3,9 +3,24 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-11-18T15:14:52Z",
-  "count": 158,
+  "generated": "2026-11-19T15:27:48Z",
+  "count": 159,
   "posts": [
+    {
+      "title": "OpenAI Faces Ongoing Challenges With WebRTC Infrastructure",
+      "date": "2026-11-19",
+      "tags": [
+        "openai",
+        "webrtc",
+        "infrastructure",
+        "ai"
+      ],
+      "summary": "Real-time communication protocol issues continue to complicate OpenAI deployments.",
+      "source_url": "https://moq.dev/blog/webrtc-is-still-the-problem/",
+      "source_title": "OpenAI still has a WebRTC Problem",
+      "slug": "2026-11-19-openai-faces-ongoing-challenges-with-webrtc-infrastructure",
+      "file": "posts/2026-11-19-openai-faces-ongoing-challenges-with-webrtc-infrastructure.md"
+    },
     {
       "title": "Qwen4-Max Arrives: The Latest Release from the Qwen Team",
       "date": "2026-11-16",
