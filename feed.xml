@@ -2,8 +2,24 @@
 <ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom">
   <ns0:title>NichePulse</ns0:title>
   <ns0:id>https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/</ns0:id>
-  <ns0:updated>2026-11-19T15:27:48Z</ns0:updated>
+  <ns0:updated>2026-11-20T14:59:44Z</ns0:updated>
   <ns0:link rel="self" href="https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/feed.xml" />
+  <ns0:entry>
+    <ns0:title>Realities of AI Integration: Why llms.txt and MCP Fell Short</ns0:title>
+    <ns0:id>urn:uuid:7b775573d672720ec1f97d9cbaca7ca1</ns0:id>
+    <ns0:link rel="alternate" href="https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did" />
+    <ns0:summary>Emerging AI standards like llms.txt and MCP promised quick gains, but one dev team found they did not drive real impact. Here is a look at their findings.</ns0:summary>
+    <ns0:published>2026-11-20T00:00:00Z</ns0:published>
+    <ns0:updated>2026-11-20T00:00:00Z</ns0:updated>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:title>Anthropic Researcher Claims Proof of the Riemann Hypothesis</ns0:title>
+    <ns0:id>urn:uuid:9f63a0c0921479434af62c7f47f375c5</ns0:id>
+    <ns0:link rel="alternate" href="https://alpo.ge/remark.pdf" />
+    <ns0:summary>A researcher at Anthropic has released a paper asserting a general proof for the famous Riemann Hypothesis.</ns0:summary>
+    <ns0:published>2026-11-20T00:00:00Z</ns0:published>
+    <ns0:updated>2026-11-20T00:00:00Z</ns0:updated>
+  </ns0:entry>
   <ns0:entry>
     <ns0:title>OpenAI Faces Ongoing Challenges With WebRTC Infrastructure</ns0:title>
     <ns0:id>urn:uuid:66dd8db31d33b7f8daf4b97ed919a96d</ns0:id>

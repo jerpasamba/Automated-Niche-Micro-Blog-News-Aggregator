@@ -3,9 +3,40 @@
     "name": "NichePulse",
     "url": "https://watashiii5.github.io/Automated-Niche-Micro-Blog-News-Aggregator/"
   },
-  "generated": "2026-11-19T15:27:48Z",
-  "count": 159,
+  "generated": "2026-11-20T14:59:44Z",
+  "count": 161,
   "posts": [
+    {
+      "title": "Realities of AI Integration: Why llms.txt and MCP Fell Short",
+      "date": "2026-11-20",
+      "tags": [
+        "ai",
+        "mcp",
+        "llmstxt",
+        "developers",
+        "tech"
+      ],
+      "summary": "Emerging AI standards like llms.txt and MCP promised quick gains, but one dev team found they did not drive real impact. Here is a look at their findings.",
+      "source_url": "https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did",
+      "source_title": "Llms.txt and MCP didn't move the needle",
+      "slug": "2026-11-20-realities-of-ai-integration-why-llmstxt-and-mcp-fell-short",
+      "file": "posts/2026-11-20-realities-of-ai-integration-why-llmstxt-and-mcp-fell-short.md"
+    },
+    {
+      "title": "Anthropic Researcher Claims Proof of the Riemann Hypothesis",
+      "date": "2026-11-20",
+      "tags": [
+        "anthropic",
+        "math",
+        "research",
+        "tech"
+      ],
+      "summary": "A researcher at Anthropic has released a paper asserting a general proof for the famous Riemann Hypothesis.",
+      "source_url": "https://alpo.ge/remark.pdf",
+      "source_title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+      "slug": "2026-11-20-anthropic-researcher-claims-proof-of-the-riemann-hypothesis",
+      "file": "posts/2026-11-20-anthropic-researcher-claims-proof-of-the-riemann-hypothesis.md"
+    },
     {
       "title": "OpenAI Faces Ongoing Challenges With WebRTC Infrastructure",
       "date": "2026-11-19",
